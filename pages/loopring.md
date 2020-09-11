@@ -1,5 +1,6 @@
 ---
 name: "Loopring"
+logo: "/logos/loopring.svg"
 color: "#1c42ff"
 schemas:
   - "loopring"

@@ -1,5 +1,6 @@
 ---
 name: "Uniswap"
+logo: "/logos/uniswap.svg"
 color: "#ff007a"
 schemas:
   - "uniswap"

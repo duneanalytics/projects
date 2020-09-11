@@ -1,5 +1,6 @@
 ---
 name: "Compound"
+logo: "/logos/compound.svg"
 color: "#00d395"
 schemas:
   - "compound"
