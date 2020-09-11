@@ -1,6 +1,6 @@
 ---
 name: "Compound"
-logo: "/logos/compound.svg"
+logo: "compound.svg"
 color: "#00d395"
 schemas:
   - "compound"
