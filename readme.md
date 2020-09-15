@@ -49,5 +49,5 @@ The lower part of the `.md`-file is a markdown area where you can write or borro
 Add the projects logo as a svg-file, or if that doesn't exist: a high resolution, transparent `project.png`-file will also work. Note that the logo should use dark text, as it will be rendered on a light background.
 
 
-## Codeowners
+## CODEOWNERS
 Representatives from the different projects may PR themselves into [CODEOWNERS](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners) file the different folders. You will then be granted write permissions, and merging pull requests to this folder will trigger a build of the dune analytics homepage, your project page included.
