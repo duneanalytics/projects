@@ -15,9 +15,6 @@ tags:
   - "DeFi"
   - "DEX"
   - "Aggregator"
-related:
-  - "defi"
-  - "dex"
 dashboards:
   - "1inch-exchange"
 queries:

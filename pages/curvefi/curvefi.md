@@ -15,9 +15,6 @@ tags:
   - "curvefi"
   - "DeFi"
   - "lp"
-related:
-  - "defi"
-  - "dex"
 dashboards:
   - "curve-fi"
   - "usdt-curve-fi"
