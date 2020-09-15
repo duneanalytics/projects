@@ -1533,5 +1533,5 @@
    <rect x="139.59" y="108.43" width="865.46" height="695.77" stroke-linejoin="round"/>
   </clipPath>
  </defs>
- <text x="581.59326" y="327.81863" fill="#ffffff" font-family="serif" font-size="13.5px" letter-spacing="0px" stroke-width=".75px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><tspan x="581.59326" y="327.81863" fill="#ffffff" font-family="'JetBrains Mono'" font-size="350px" stroke-linejoin="round" stroke-width=".75px">Curve</tspan></text>
+ <text x="581.59326" y="327.81863" fill="#000" font-family="serif" font-size="13.5px" letter-spacing="0px" stroke-width=".75px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><tspan x="581.59326" y="327.81863" fill="#000" font-family="'JetBrains Mono'" font-size="350px" stroke-linejoin="round" stroke-width=".75px">Curve</tspan></text>
 </svg>
