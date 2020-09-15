@@ -22,8 +22,8 @@ links:                                              # list of relevant links to 
   - name: "Oasis"
     link: "https://oasis.app/"
 tags:                                               # list of applicable tags in Dune. These will link to e.g.
-  - "DAI"                                           # explore.duneanalytics.com/dashboards?tag=DAI
-  - "makerdao"                                      # explore.duneanalytics.com/dashboards?tag=makerdao etc...
+  - "DAI"                                           # explore.duneanalytics.com/dashboards?tags=DAI
+  - "makerdao"                                      # explore.duneanalytics.com/dashboards?tags=makerdao etc...
   - "maker"
   - "DeFi"
 related:                                            # list of related projects. NB: project must exist in this repo and the name
