@@ -5,7 +5,7 @@ This repository hosts the content rendered on [duneanalytics.com/projects](https
 ## Format
 Each page should have it's own folder within the `pages/` folder. The folder should contain two files with the same name as the folder, one with a `.md`-suffix and one with a `.svg` (high res, transparent `.png` also works, but `.svg` is preferred)
 ### project.md
-The data is formatted in a markdown file with a escaped yaml top section. Consider the below example configuration for DAI which is saved in the `pages/dai/dai.md`-file
+The data is formatted in a markdown file with a escaped yaml top section. Consider the below example configuration for DAI which is saved in the `pages/dai/dai.md`-file:
 
 ```
 name: "DAI"                                         # name of the project. Also the URL i.e. duneanalytics.com/projects/dai
@@ -43,7 +43,7 @@ Dai is easy to generate, access, and use. Users generate Dai by depositing colla
 *From https://makerdao.com/en/whitepaper.*
 
 ```
-The lower part of the `.md`-file is a markdown area where you can write or borrow a description from a project. If you copy it, please link back to the page you quoted it from.
+The lower part of the `.md`-file is a markdown area where you can write or borrow a description from a project. If you copy it, please link back to the page you quoted it from. Note that all the keys are mandatory, so if you have an empty queries field it should be listed as `queries: []`
 
 ### project.svg
 Add the projects logo as a svg-file, or if that doesn't exist: a high resolution, transparent `project.png`-file will also work. Note that the logo should use dark text, as it will be rendered on a light background.
