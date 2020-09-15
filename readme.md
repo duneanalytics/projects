@@ -46,7 +46,7 @@ Dai is easy to generate, access, and use. Users generate Dai by depositing colla
 The lower part of the `.md`-file is a markdown area where you can write or borrow a description from a project. If you copy it, please link back to the page you quoted it from.
 
 ### project.svg
-Add the projects logo as a svg-file, or if that doesn't exist: a high resolution, transparent `project.png`-file will also work.
+Add the projects logo as a svg-file, or if that doesn't exist: a high resolution, transparent `project.png`-file will also work. Note that the logo should use dark text, as it will be rendered on a light background.
 
 
 ## Codeowners
