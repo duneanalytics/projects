@@ -15,6 +15,9 @@ tags:
   - "uniswap"
   - "DeFi"
   - "DEX"
+related:
+  - "defi"
+  - "dex"
 dashboards:
   - "uniswap-combined-metrics"
   - "ampleforth-uniswap-dex"

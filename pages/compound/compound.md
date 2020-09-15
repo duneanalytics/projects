@@ -15,6 +15,8 @@ tags:
   - "compound"
   - "DeFi"
   - "DEX"
+related:
+  - "defi"
 dashboards:
   - "compound-master-"
   - "compound-bi"

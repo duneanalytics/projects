@@ -15,6 +15,8 @@ tags:
   - "loopring"
   - "DeFi"
   - "zkRollup"
+related:
+  - "dex"
 dashboards:
   - "loopring"
   - "defi-watch-by-wubs"

@@ -18,6 +18,10 @@ tags:
   - "makerdao"
   - "DeFi"
   - "DAI"
+related:
+  - "dai"
+  - "defi"
+  - "dex"
 dashboards:
   - "maker-dao---mcd"
   - "makerdao-liquidations"
