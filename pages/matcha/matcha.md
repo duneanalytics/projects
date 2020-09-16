@@ -24,5 +24,8 @@ queries:
   - 5351
 ---
 
-Matcha is a crypto trading platform powered by 0x Labs. We are a decentralized exchange meaning that users swap their tokens peer-to-peer through the Ethereum smart contract infrastructure. We provide you with the best prices while allowing you to retain complete custody of your tokens throughout the entire trading process.
+Matcha is a crypto trading platform powered by 0x Labs. 
+
+We are a decentralized exchange meaning that users swap their tokens peer-to-peer through the Ethereum smart contract infrastructure. We provide you with the best prices while allowing you to retain complete custody of your tokens throughout the entire trading process.
+
 *From http://help.matcha.xyz/.*
