@@ -21,6 +21,9 @@ dashboards:
   - "mft-uniswap-dashboard"
 queries:
   - 8741
+embeds:
+  - name: "Cumulative Uniswap volume"
+    link: "https://explore.duneanalytics.com/embed/query/8086/visualization/16180?api_key=AfneRAzINw7GQeEOYd6ixGKZUL8A0RfalGTXvmEP" 
 ---
 
 **Uniswap** is a fully decentralized protocol for automated liquidity provision on Ethereum.
