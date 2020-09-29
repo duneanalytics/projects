@@ -23,8 +23,6 @@ queries:
   - 7495
 ---
 
-Aave is an open source and non-custodial protocol enabling the creation of money markets. 
-
-Users can earn interest on deposits and borrow assets.
+Aave is an open source and non-custodial protocol enabling the creation of money markets. Users can earn interest on deposits and borrow assets.
 
 *From https://aave.com/.*
