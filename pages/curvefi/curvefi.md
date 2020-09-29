@@ -17,16 +17,22 @@ tags:
   - "lp"
 dashboards:
   - "curve-fi"
-  - "usdt-curve-fi"
 queries:
-  - 2547
+  - 2271
+  - 2685
+  - 2668
+  - 3117
 embeds:
+  - name: "Curve.fi all liquidity"
+    link:  "https://explore.duneanalytics.com/embed/query/2547/visualization/4826?api_key=nOI9uFYd08NneQ5eQmfsgyC40eW90O1FI10GpF26"
   - name: "Curve.fi weekly volume"
-    link: "https://explore.duneanalytics.com/embed/query/3447/visualization/6664?api_key=ZHn6vBXWUlgpFPeQjvGveYNdDZV8kJgwOVu3vnlS" 
+    link: "https://explore.duneanalytics.com/embed/query/3447/visualization/6664?api_key=ZHn6vBXWUlgpFPeQjvGveYNdDZV8kJgwOVu3vnlS"
+  - name: "Curve.fi cumulative volume"
+    link:  "https://explore.duneanalytics.com/embed/query/4245/visualization/8263?api_key=lcOV6Ab25bgtBj0S6AIKG1Z7zC9b6BpCtTy2Shlj"
 ---
 
-The easiest way to understand Curve is to see it as an exchange. Its main goal is to let users and other decentralised protocols exchange stablecoins (DAI to USDC for example) through it with low fees and low slippage. 
+Curve is an exchange liquidity pool designed for extremely efficient stable-asset trading. Its main goal is to let users and other decentralised protocols exchange stable assets (stablecoins, different kind of Bitcoin on Ethereum) through it with low fees and low slippage.
 
-Unlike exchanges out there that match a buyer and a seller, the behaviour of Curve is different, it uses liquidity pools like Uniswap. To achieve this, Curve needs liquidity (tokens) which is rewarded by those who provide it.
+Curve is fully decentralized and all decisions about the protocol are taken by CRV holders.
 
-*From https://resources.curve.fi/.*
+Unlike exchanges out there that match a buyer and a seller, the behaviour of Curve is different, it uses liquidity pools. Liquidity providers deposit one or more stablecoins in a Curve pool and receive Curve LP tokens. Liquidity providers receive 0.02% of trading fees currently and are also incentivized with CRV token.
