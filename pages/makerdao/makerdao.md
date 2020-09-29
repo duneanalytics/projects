@@ -26,6 +26,9 @@ dashboards:
   - "makerdao-p-e"
 queries:
   - 855
+embeds:
+  - name: "Collateral USD value per day"
+    link: "https://explore.duneanalytics.com/embed/query/1005/visualization/1684?api_key=T52lKJwyBHlbWWNZSTlBFUZX0IOBczi3bdPJASpm" 
 ---
 
 The Maker Protocol, also known as the Multi-Collateral Dai (MCD) system, allows users to generate Dai by leveraging collateral assets approved by "Maker Governance." Maker Governance is the community organized and operated process of managing the various aspects of the Maker Protocol. 
