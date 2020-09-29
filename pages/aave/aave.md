@@ -1,12 +1,12 @@
 ---
 name: "Aave"
-logo: "Aave.svg"
+logo: "aave.svg"
 color: "#B6509E"
 schemas:
   - "Aave"
 links:
   - name: "Website"
-    link: "https://aave.com/
+    link: "https://aave.com/"
   - name: "Docs"
     link: "https://docs.aave.com/"
   - name: "App"
