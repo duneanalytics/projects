@@ -20,6 +20,9 @@ dashboards:
 queries:
   - 794
   - 1192
+embeds:
+  - name: "1inch USD Volume Per Month"
+    link: "https://explore.duneanalytics.com/embed/query/1201/visualization/2048?api_key=1nxpOfINoCOzTRHSc15PWaHlu3vjyQinBbYjtDNU" 
 ---
 
 1inch exchange is a DEX aggregator that executes a swap of tokens at the best price in one single transaction. It is a common place that a core problem of all DEXes (decentralized exchanges) is lack of liquidity due to the fact that DEXes are a relatively new concept. First of all, 1inch DEX aggregator is addressing the liquidity problem thus facilitating mass adoption. 
