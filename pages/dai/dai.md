@@ -25,6 +25,9 @@ dashboards:
   - "dex-metrics"
 queries:
   - 855
+embeds:
+  - name: "Monthly Dai transaction volume"
+    link: "https://explore.duneanalytics.com/embed/query/1100/visualization/1873?api_key=RHipExkbw08rqeoVGGQJ5kYcoNiYRIBddz3hGzme"
 ---
 
 The Dai stablecoin is a decentralized, unbiased, collateral-backed cryptocurrency soft-pegged to the US Dollar. Dai is held in cryptocurrency wallets or within platforms, and is supported on Ethereum and other popular blockchains.
