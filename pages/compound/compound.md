@@ -20,6 +20,9 @@ dashboards:
   - "compound-bi"
 queries:
   - 4236
+embeds:
+  - name: "Compound Outstanding Debt"
+    link: "https://explore.duneanalytics.com/embed/query/1936/visualization/3456?api_key=6GLrkiJUQhnXuzfcFcaOFJs9thx5GACpxArzUBbx"
 ---
 
 **Compound** is an algorithmic, autonomous interest rate protocol built for developers, to unlock a universe of open financial applications.
