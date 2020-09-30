@@ -16,10 +16,6 @@ links:
 tags:
   - "Kyber"
   - "DeFi"
-related:
-  - "0x"
-  - 1inch
-  - uniswap
 dashboards:
   - "kyber-network_2"
   - "0x"
