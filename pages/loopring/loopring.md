@@ -17,14 +17,18 @@ tags:
   - "zkRollup"
 dashboards:
   - "loopring"
-  - "defi-watch-by-wubs"
 queries:
-  - 299
-  - 329
+  - 2324
+  - 2165
+  - 2321
 embeds:
-  - name: "Loopring Exchange Balance"
+  - name: "Loopring.io Daily Volume"
+    link: "https://explore.duneanalytics.com/embed/query/2324/visualization/4321?api_key=u69EF4fRavSQWPgQEK8Qw36SjsISkv7roJLWQKyA"
+  - name: "Loopring.io Total Value Locked"
     link: "https://explore.duneanalytics.com/embed/query/2165/visualization/4001?api_key=D8MK8HstMF3MsVksW83C1eGBrnGk8POh8EfFkUbv"
 ---
+
+Loopring is a zkRollup Exchange and Payment Protocol.
 
 **Secure:** Loopring is an open-sourced, audited, and non-custodial exchange protocol, which means nobody in the Loopring ecosystem needs to trust others. Cryptoassets are always under users' own control, with 100% Ethereum-level security guarantees.
 
