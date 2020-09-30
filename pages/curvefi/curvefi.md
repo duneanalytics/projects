@@ -9,8 +9,8 @@ links:
     link: "https://www.curve.fi/"
   - name: "Docs"
     link: "https://www.curve.fi/devdocs"
-  - name: "Guides"
-    link: "https://guides.curve.fi/"
+  - name: "User Resources"
+    link: "https://resources.curve.fi/"
 tags:
   - "curvefi"
   - "DeFi"
@@ -19,7 +19,7 @@ dashboards:
   - "curve-fi"
 queries:
   - 2271
-  - 2685
+  - 2658
   - 2668
   - 3117
 embeds:
