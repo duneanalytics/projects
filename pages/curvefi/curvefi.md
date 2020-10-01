@@ -25,8 +25,8 @@ queries:
 embeds:
   - name: "Curve.fi all liquidity"
     link:  "https://explore.duneanalytics.com/embed/query/2547/visualization/4826?api_key=nOI9uFYd08NneQ5eQmfsgyC40eW90O1FI10GpF26"
-  - name: "Curve.fi weekly volume"
-    link: "https://explore.duneanalytics.com/embed/query/3447/visualization/6664?api_key=ZHn6vBXWUlgpFPeQjvGveYNdDZV8kJgwOVu3vnlS"
+  - name: "Curve.fi monthy volume"
+    link: "https://explore.duneanalytics.com/embed/query/10784/visualization/21412?api_key=k1Ckdi0qWMnJi5hl1uZMcLKVuWDwj8DGIHLXGiDx"
   - name: "Curve.fi cumulative volume"
     link:  "https://explore.duneanalytics.com/embed/query/4245/visualization/8263?api_key=lcOV6Ab25bgtBj0S6AIKG1Z7zC9b6BpCtTy2Shlj"
 ---
