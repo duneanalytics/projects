@@ -24,7 +24,6 @@ queries:
 embeds:
   - name: "Uniswap Weekly volume"
     link: "https://explore.duneanalytics.com/embed/query/7867/visualization/15678?api_key=0jqZBJ3gFo2akmqhcBPwCgG11dXEDey8m3NlkvF6" 
-embeds:
   - name: "Cumulative Uniswap volume"
     link: "https://explore.duneanalytics.com/embed/query/8086/visualization/16180?api_key=AfneRAzINw7GQeEOYd6ixGKZUL8A0RfalGTXvmEP" 
 ---
