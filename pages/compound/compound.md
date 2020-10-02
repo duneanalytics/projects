@@ -18,6 +18,7 @@ tags:
 dashboards:
   - "compound-master-"
   - "compound-bi"
+  - "compound-governance"
 queries:
   - 4236
 embeds:
