@@ -23,13 +23,13 @@ queries: []
 
 **Balancer is a protocol for programmable liquidity**
 
-**Generalized AMM**
+**Generalized AMM**  
 Customizable number of assets and weights within a pool
 
-**Global Liquidity**
+**Global Liquidity**  
 Trade against all pools in the Balancer ecosystem for best price execution
 
-**Smart Pools**
+**Smart Pools**  
 Pools controlled by smart contracts can implement any arbitrary trading strategy or logic
 
 *From https://balancer.finance/.*
