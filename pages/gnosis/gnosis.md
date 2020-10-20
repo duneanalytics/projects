@@ -1,7 +1,7 @@
 ---
 name: "Gnosis"
 logo: "gnosis.svg"
-color: "#f3f2f2"
+color: "#ddd"
 schemas:
   - "gnosis"
 links:
