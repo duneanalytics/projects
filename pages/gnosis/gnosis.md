@@ -11,6 +11,8 @@ links:
     link: "https://gnosis-safe.io/"
   - name: "Gnosis Protocol"
     link: "https://docs.gnosis.io/protocol/"
+  - name: "Conditional Token Framework"
+    link: "https://docs.gnosis.io/conditionaltokens/"
   - name: "Github"
     link: "https://github.com/gnosis"
 tags:
@@ -23,6 +25,7 @@ dashboards:
   - "gnosis-safe_2"
   - "HtS7kMiZWYS2bxA5oArxlevFwX4B0O3ZZAiRxcd3"
   - "gnosis-protocol-custom-market-making"
+  - "conditional-token-framework_1"
 embeds:
   - name: "Gnosis Safe Total Value Locked"
     link: "https://explore.duneanalytics.com/embed/query/5059/visualization/9969?api_key=d4YzPKwiyQGjBfvHMu9QlA23a4ZdlGBTz7Et01nw"
