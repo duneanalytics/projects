@@ -25,8 +25,8 @@ embeds:
     link: "https://explore.duneanalytics.com/embed/query/13951/visualization/27947?api_key=hMnQysAgmDist8grP9lJVbl2c0fTunXdbyCvpPoC"
 ---
 
-**BarnBridge** is a a fluctuations derivatives protocol for hedging yield sensitivity and market price.
+**BarnBridge** is the first risk tokenizing protocol. It allows hedging yield sensitivity and market price.
 
-BarnBridge is the first risk tokenizing protocol. Its purpose is to integrate with other protocols letting hedging the yield risks on those lending and other platforms.
+The purpose of BarnBridge is to integrate with other protocols letting hedging the yield risks on those lending and other platforms.
 
 *From https://barnbridge.com/.*
