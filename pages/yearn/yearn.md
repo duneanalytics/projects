@@ -7,8 +7,10 @@ schemas:
 links:
   - name: "Website"
     link: "https://yearn.finance"
-  - name: "Governance"
+  - name: "Staking"
     link: "https://ygov.finance"
+  - name: "Governance"
+    link: "https://gov.yearn.finance"
   - name: "Docs"
     link: "https://docs.yearn.finance"
 tags:
@@ -17,15 +19,18 @@ tags:
   - "DeFi"
 dashboards:
   - "t_1" # yvaults
+  - "-yfi-token-allocation"
   - "yearn-governance-yfi-"
   - "yearn" # initial distribution
 queries:
   - 10944
   - 10946
 embeds:
+  - name: "YFI Staking"
+    link: "https://duneanalytics.com/embeds/14531/29543/dAdsJxW0p4sYgYVUQCrIQs7ttoGcl16MTyQN3ZbD"
   - name: "Governance Rewards"
     link: "https://explore.duneanalytics.com/embed/query/10944/visualization/21741?api_key=TH1oOoZAZCKqx1bNoASR7FR0GLI7NwoIrVgnMqX7"
-  - name: "YFI Staked"
+  - name: "YFI Governance Staking"
     link: "https://explore.duneanalytics.com/embed/query/10946/visualization/21746?api_key=x5bQnZwZpYq6HYoWAeM3XL9TB5QA5ewIK3pPRwXu"
 ---
 
