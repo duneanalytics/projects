@@ -1,6 +1,6 @@
 ---
 name: "Unit Protocol"
-logo: "unitprotocol.svg"
+logo: "unitprotocol.png"
 color: "#ff88cf"
 schemas:
   - "unit_protocol"
