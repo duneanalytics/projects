@@ -1,7 +1,7 @@
 ---
 name: "Unit Protocol"
-logo: "unitprotocol.svg"
-color: "#efa3cc"
+logo: "unitprotocol.png"
+color: "#ff88cf"
 schemas:
   - "unit_protocol"
 links:
@@ -13,6 +13,7 @@ links:
     link: "https://app.unit.xyz"
 tags:
   - "unit"
+  - "duck"
   - "DeFi"
 dashboards:
   - "unit-protocol" # general, protocol usage
