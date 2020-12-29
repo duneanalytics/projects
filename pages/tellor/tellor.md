@@ -31,7 +31,7 @@ embeds:
     link: "https://duneanalytics.com/embeds/2405/4518/G1jI9IIIiba4Vk2wNfwrUOzCq4bRrQiSVpDYryMm"
 ---
 
-# Seamless Token Swaps, Anywhere
+# Censorship Resistant Data Feeds
 Tellor is a permissionless community of token holders,
 data providers, and validators working together as a decentralized oracle.  
 
