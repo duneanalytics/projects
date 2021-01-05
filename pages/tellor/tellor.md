@@ -1,6 +1,6 @@
 ---
 name: "Tellor"
-logo: "tellor.png"
+logo: "tellor.svg"
 color: "#00AE99"
 schemas:
   - "Tellor"
