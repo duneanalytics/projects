@@ -1,10 +1,6 @@
 ---
 name: "Tellor"
-<<<<<<< HEAD
 logo: "tellor.svg"
-=======
-logo: "tellor.png"
->>>>>>> 10ba953... tellor add
 color: "#00AE99"
 schemas:
   - "Tellor"
@@ -35,15 +31,9 @@ embeds:
     link: "https://duneanalytics.com/embeds/2405/4518/G1jI9IIIiba4Vk2wNfwrUOzCq4bRrQiSVpDYryMm"
 ---
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-# Censorship Resistant Data Feeds
-=======
-# Seamless Token Swaps, Anywhere
->>>>>>> 10ba953... tellor add
+
 =======
 # Censorship Resistant Data Feeds
->>>>>>> 88e511b... desc
 Tellor is a permissionless community of token holders,
 data providers, and validators working together as a decentralized oracle.  
 
