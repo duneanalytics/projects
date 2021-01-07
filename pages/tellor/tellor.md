@@ -36,10 +36,14 @@ embeds:
 ---
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Censorship Resistant Data Feeds
 =======
 # Seamless Token Swaps, Anywhere
 >>>>>>> 10ba953... tellor add
+=======
+# Censorship Resistant Data Feeds
+>>>>>>> 88e511b... desc
 Tellor is a permissionless community of token holders,
 data providers, and validators working together as a decentralized oracle.  
 
