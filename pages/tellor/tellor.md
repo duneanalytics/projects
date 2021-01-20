@@ -16,7 +16,7 @@ tags:
   - "oracle"
   - "DeFi"
 dashboards:
-  - "Tellor Network Activity"
+  - tellor2
 queries:
   - 12789
   - 2406
