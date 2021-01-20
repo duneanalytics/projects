@@ -8,8 +8,6 @@ schemas:
 links:
   - name: "Website"
     link: "https://tokenlon.im/"
-  - name: "FAQ"
-    link: "https://1inch.exchange/#/faq"
 tags:
   - "DeFi"
   - "DEX"
