@@ -24,7 +24,7 @@ queries:
   - 2210
 embeds:
   - name: "Tokenlon USD Volume Per Month"
-    link: "https://explore.duneanalytics.com/embed/query/2214/visualization/4075?api_key=D8MK8HstMF3MsVksW83C1eGBrnGk8POh8EfFkUbv"
+    link: "https://duneanalytics.com/embeds/2214/4075/b3pHpehPbrZi0uVd46q29JN1N0uNKDxKGHiuQjxf"
 ---
 
 Tokenlon is a decentralized exchange and payment settlement protocol based on blockchain technology.
