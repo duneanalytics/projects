@@ -16,6 +16,8 @@ tags:
   - "DeFi"
   - "Lending"
 dashboards:
+  - "truefi-loan-stats"
+  - "tru-staking-burns"
 queries:
 ---
 
