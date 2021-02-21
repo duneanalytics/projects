@@ -16,9 +16,9 @@ tags:
   - "DeFi"
   - "Lending"
 dashboards:
-  - "aave-daily-volume"
-  - "aave-research"
-  - "aave_1"
+  - "ABertoG/aave-daily-volume"
+  - "johaya/aave-research"
+  - "MatteoLeibowitz/aave_1"
 queries:
   - 7495
 ---

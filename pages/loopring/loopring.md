@@ -1,4 +1,4 @@
----
+t---
 name: "Loopring"
 logo: "loopring.svg"
 color: "#1c42ff"
@@ -16,7 +16,7 @@ tags:
   - "DeFi"
   - "zkRollup"
 dashboards:
-  - "loopring"
+  - "Brecht/loopring"
 queries:
   - 2324
   - 2165

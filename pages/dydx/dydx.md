@@ -17,9 +17,9 @@ tags:
   - "defi"
   - "dex"
 dashboards:
-  - "dydx_6"
-  - "dydx_4"
-  - "liquidation-success-rate"
+  - "dgog/dydx_6"
+  - "tomhschmidt/dydx_4"
+  - "MatteoLeibowitz/liquidation-success-rate"
 embeds:
   - name: "dYdX Users"
     link: "https://explore.duneanalytics.com/embed/query/8354/visualization/16743?api_key=acVCjTfYx8pZwe9Iwdr0YZapc8qg5DjhV6SSV4Lf"

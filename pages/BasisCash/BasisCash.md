@@ -16,7 +16,7 @@ tags:
   - "Algorithmic Stablecoins"
   - "Stablecoin"
 dashboards:
-  - "basis-cash_1"
+  - "donkhalil/basis-cash_1"
 embeds:
   - name: "Supply/Allocation of Basis Cash ($BAC)"
     link: "https://explore.duneanalytics.com/embed/query/15417/visualization/30967?api_key=i2JrTzEnAPnjriYWbqqcjRhBTwAELn52smmCcMCK"

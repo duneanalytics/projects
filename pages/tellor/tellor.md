@@ -16,7 +16,7 @@ tags:
   - "oracle"
   - "DeFi"
 dashboards:
-  - tellor2
+  - "thefett/tellor"
 queries:
   - 12789
   - 2406

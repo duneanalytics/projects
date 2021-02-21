@@ -15,8 +15,8 @@ tags:
   - "Tokenlon"
   - "0x"
 dashboards:
-  - "tokenlon-dex-stats"
-  - "tokenlon_1"
+  - "p0s/tokenlon-dex-stats"
+  - "danning.sui/tokenlon_1"
 queries:
   - 5885
   - 9725

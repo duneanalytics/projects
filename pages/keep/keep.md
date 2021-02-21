@@ -18,8 +18,8 @@ tags:
   - "keep"
   - "tBTC"
 dashboards:
-  - "tbtc"
-  - "tbtc_1-1-0-tian7-eth-5457_1"
+  - "itzler/tbtc"
+  - "tianqi/tbtc_1-1-0-tian7-eth-5457_1"
 queries:
   - 4813
   - 10502

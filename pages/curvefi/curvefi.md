@@ -16,7 +16,7 @@ tags:
   - "DeFi"
   - "lp"
 dashboards:
-  - "curve-fi"
+  - "penguindev/curve-fi"
 queries:
   - 2271
   - 2658
