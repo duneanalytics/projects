@@ -1,4 +1,4 @@
-t---
+---
 name: "Loopring"
 logo: "loopring.svg"
 color: "#1c42ff"
