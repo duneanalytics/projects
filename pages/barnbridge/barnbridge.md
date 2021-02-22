@@ -17,7 +17,7 @@ tags:
   - "tranches"
   - "TokenizedRisk"
 dashboards:
-  - "barnbridge"
+  - "0xBoxer/barnbridge"
 embeds:
   - name: "BarnBridge Pool 1 TVL"
     link: "https://explore.duneanalytics.com/embed/query/13948/visualization/27938?api_key=IdIdbz1yqMd8WzR91L4Yq5QhmagbFE3kRC9BkquX"

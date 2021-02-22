@@ -16,9 +16,9 @@ tags:
   - "DeFi"
   - "DEX"
 dashboards:
-  - "compound-master-"
-  - "compound-bi"
-  - "compound-governance"
+  - "MatteoLeibowitz/compound-master-"
+  - "cjliu49/compound-bi"
+  - "lsquared/compound-governance"
 queries:
   - 4236
 embeds:

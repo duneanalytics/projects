@@ -15,8 +15,8 @@ tags:
   - "TrueFi"
   - "DeFi"
   - "Lending"
-dashboards:
-queries:
+dashboards: []
+queries: []
 ---
 
 TrueFi is a protocol for on-chain uncollateralized lending. TrueFi aims to become the ultimate market-driven, automated credit rating and lending system

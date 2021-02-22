@@ -21,9 +21,9 @@ tags:
 related:
   - "dai"
 dashboards:
-  - "maker-dao---mcd"
-  - "makerdao-liquidations"
-  - "makerdao-p-e"
+  - "hagaetc/maker-dao---mcd"
+  - "MatteoLeibowitz/makerdao-liquidations"
+  - "MatteoLeibowitz/makerdao-p-e"
 queries:
   - 855
 embeds:

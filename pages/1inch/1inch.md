@@ -16,7 +16,7 @@ tags:
   - "DEX"
   - "Aggregator"
 dashboards:
-  - "1inch-exchange"
+  - "k06a/1inch-exchange"
 queries:
   - 794
   - 1192

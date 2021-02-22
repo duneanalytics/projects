@@ -19,7 +19,7 @@ tags:
 related:
   - "0x"
 dashboards:
-  - "matcha"
+  - "0x/matcha"
 queries:
   - 5351
 ---

@@ -22,10 +22,10 @@ tags:
   - "DeFi"
   - "IDO"
 dashboards:
-  - "gnosis-safe_2"
-  - "kpi-gnosis-protocol"
-  - "gnosis-protocol-custom-market-making"
-  - "conditional-token-framework_1"
+  - "tschubotz/gnosis-safe_2"
+  - "gnosis.protocol/kpi-gnosis-protocol"
+  - "bh2smith/gnosis-protocol-custom-market-making"
+  - "Greame87/conditional-token-framework_1"
 embeds:
   - name: "Gnosis Safe Total Value Locked"
     link: "https://explore.duneanalytics.com/embed/query/5059/visualization/9969?api_key=d4YzPKwiyQGjBfvHMu9QlA23a4ZdlGBTz7Et01nw"

@@ -20,9 +20,9 @@ tags:
 related:
   - "makerdao"
 dashboards:
-  - "maker-dao---mcd"
-  - "makerdao-liquidations"
-  - "dex-metrics"
+  - "hagaetc/maker-dao---mcd"
+  - "MatteoLeibowitz/makerdao-liquidations"
+  - "hagaetc/dex-metrics"
 queries:
   - 855
 embeds:

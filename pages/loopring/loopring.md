@@ -16,7 +16,7 @@ tags:
   - "DeFi"
   - "zkRollup"
 dashboards:
-  - "loopring"
+  - "Brecht/loopring"
 queries:
   - 2324
   - 2165

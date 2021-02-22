@@ -17,8 +17,8 @@ tags:
   - "Kyber"
   - "DeFi"
 dashboards:
-  - "kyber-network_2"
-  - "0x"
+  - "ha.hoang/kyber-network_2"
+  - "devinwalsh/0x"
 queries:
   - 3612
 embeds:
