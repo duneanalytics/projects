@@ -15,9 +15,8 @@ tags:
   - "Ruler"
   - "DeFi"
   - "Lending"
-related:
 dashboards:
-queries:
+  - "asot/ruler-protocol-dashboard"
 ---
 
 Ruler Protocol is the first market-driven lending platform with non-liquidatable loans
