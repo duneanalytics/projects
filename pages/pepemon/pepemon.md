@@ -23,6 +23,7 @@ tags:
   - "PPDEX"
 dashboards:
   - "wiz1989/pepeboard"
+  - "pepemon/pepenalytics-0-0-1"
 embeds:
   - name: "PPBLZ staked (main token)"
     link: "https://duneanalytics.com/embeds/20996/43207/dByR17bZs0boA8oRFxPZwcbfmk7Vfgz3C4TFmskW" 
