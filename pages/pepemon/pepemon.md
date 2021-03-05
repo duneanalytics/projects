@@ -31,3 +31,5 @@ embeds:
 ---
 
 **PEPEMON.finance** The Degentralized Platform.
+
+PEPEMON.finance is a digital collectible card game on Blockchain. Powered by DeFi and using NFTs as in-game assets.
