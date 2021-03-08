@@ -18,7 +18,8 @@ tags:
 dashboards:
   - "tt_tyler/truefi-loan-stats"
   - "tt_tyler/tru-staking-burns"
-queries:
+queries: []
+
 ---
 
 TrueFi is a protocol for on-chain uncollateralized lending. TrueFi aims to become the ultimate market-driven, automated credit rating and lending system

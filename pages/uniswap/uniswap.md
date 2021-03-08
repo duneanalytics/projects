@@ -16,9 +16,9 @@ tags:
   - "DeFi"
   - "DEX"
 dashboards:
-  - "uniswap-community"
-  - "uniswap-governance"
-  - "uniswap-combined-metrics"
+  - "MatteoLeibowitz/uniswap-community"
+  - "lsquared/uniswap-governance"
+  - "danrobinson/uniswap-combined-metrics"
 embeds:
   - name: "Uniswap Weekly volume"
     link: "https://explore.duneanalytics.com/embed/query/7867/visualization/15678?api_key=0jqZBJ3gFo2akmqhcBPwCgG11dXEDey8m3NlkvF6" 

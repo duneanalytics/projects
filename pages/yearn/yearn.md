@@ -18,10 +18,10 @@ tags:
   - "yield"
   - "DeFi"
 dashboards:
-  - "t_1" # yvaults
-  - "-yfi-token-allocation"
-  - "yearn-governance-yfi-"
-  - "yearn" # initial distribution
+  - "milkyklim/t_1" # yvaults
+  - "0xBoxer/-yfi-token-allocation"
+  - "milkyklim/yearn-governance-yfi-"
+  - "milkyklim/yearn" # initial distribution
 queries:
   - 10944
   - 10946

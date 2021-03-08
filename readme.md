@@ -46,11 +46,11 @@ tags:
 related: 
   - "makerdao" # ...should match like "pages/makerdao/makerdao.md".
 
-# List of relevant dashboard slugs.
+# List of relevant dashboard slugs prefixed with username
 dashboards:
-  - "maker-dao---mcd"
-  - "makerdao-liquidations"
-  - "dex-metrics"
+  - "user1/maker-dao---mcd"
+  - "user2/makerdao-liquidations"
+  - "user3/dex-metrics"
 
 # List of relevant query-ids.
 queries:

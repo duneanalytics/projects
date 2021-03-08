@@ -15,7 +15,7 @@ links:
 tags:
   - "erasure"
 dashboards:
-  - "erasure"
+  - "thibault_bnd/erasure"
 embeds:
   - name: "Requests"
     link: "https://explore.duneanalytics.com/embed/query/2549/visualization/4828?api_key=1QpnQQSXdiveXnZcYQaHUtyDXzb3brGUeEZzYo4E"

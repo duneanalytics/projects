@@ -16,8 +16,8 @@ tags:
   - "dex"
   - "DeFi"
 dashboards:
-  - "bancor_1"
-  - "bancor-protected-v2-1-data"
+  - "ashachaf/bancor_1"
+  - "ashachaf/bancor-protected-v2-1-data"
 queries:
   - 3719
 embeds:

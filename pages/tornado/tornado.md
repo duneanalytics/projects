@@ -10,7 +10,7 @@ links:
   - name: "Github"
     link: "https://github.com/tornadocash"
 dashboards:
-  - "tornado-cash_1"
+  - "poma/tornado-cash_1"
 queries:
   - 4608
 embeds:

@@ -16,7 +16,7 @@ tags:
   - "duck"
   - "DeFi"
 dashboards:
-  - "unit-protocol" # general, protocol usage
+  - "milkyklim/unit-protocol" # general, protocol usage
 queries:
   - 14198
   - 14223
