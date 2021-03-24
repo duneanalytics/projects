@@ -18,8 +18,9 @@ tags:
   - "DEX"
 related: []
 dashboards: 
-  - "balancerlabs/balancer-exchange"
   - "balancerlabs/balancer-pools"
+  - "balancerlabs/balancer-exchange"
+  - "balancerlabs/Balancer-Volume-Token-Breakdown"
 queries: []
 embeds:
   - name: "Total Value Locked"
