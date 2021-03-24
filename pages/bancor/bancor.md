@@ -15,9 +15,10 @@ tags:
   - "bancor"
   - "dex"
   - "DeFi"
+  - "BNT"
 dashboards:
-  - "ashachaf/bancor_1"
-  - "ashachaf/bancor-protected-v2-1-data"
+  - "Bancor/bancor_1"
+  - "Bancor/bancor-protected-v2-1-data"
 queries:
   - 3719
 embeds:
