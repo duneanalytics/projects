@@ -21,6 +21,7 @@ dashboards:
   - "balancerlabs/balancer-pools"
   - "balancerlabs/balancer-exchange"
   - "balancerlabs/Balancer-Volume-Token-Breakdown"
+  - "balancerlabs/Balancer-Volume-Pool-Breakdown"
 queries: []
 embeds:
   - name: "Total Value Locked"
