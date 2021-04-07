@@ -20,6 +20,7 @@ related: []
 dashboards: 
   - "balancerlabs/balancer-pools"
   - "balancerlabs/balancer-exchange"
+  - "balancerlabs/balancer-lbp"
   - "balancerlabs/Balancer-Volume-Token-Breakdown"
   - "balancerlabs/Balancer-Volume-Pool-Breakdown"
 queries: []
