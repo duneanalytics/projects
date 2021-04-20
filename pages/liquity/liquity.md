@@ -30,7 +30,7 @@ tags:
   
 # List of relevant dashboard slugs prefixed with username
 dashboards:
-  - "dani/liquity"
+  - "dani/Liquity"
 
 # List of visualizations to embed
 embeds:
