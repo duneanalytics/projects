@@ -6,7 +6,7 @@ name: "Liquity"
 logo: "liquity.svg"
 
 # The main color of the project. Remember to quote this value.
-color: "#2EB6EA"
+color: "#2eb6ea"
 
 # List of relevant schemas you can query in dune.
 schemas: 
