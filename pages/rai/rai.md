@@ -1,7 +1,7 @@
 ---
 name: "RAI"
 logo: "rai.svg"
-color: "linear-gradient(225deg, rgb(120, 216, 255) 0%, rgb(76, 224, 150) 100%)"
+color: "#4ce096"
 schemas:
   - "reflexer"
 links:
