@@ -22,11 +22,11 @@ dashboards:
   - "hagaetc/dex-metrics"
 embeds:
   - name: "Daily Rai transaction volume"
-    link: "https://duneanalytics.com/queries/32353"
+    link: 32353
   - name: "Oustanding RAI"
-    link: "https://duneanalytics.com/queries/32306"
+    link: 32306
   - name: "ETH Locked"
-    link: "https://duneanalytics.com/queries/32373"
+    link: 32373
 ---
 
 RAI is a non pegged, ETH backed stable asset. It is useful as more "stable" collateral for other DeFi protocols (compared to ETH or BTC) or as a stable asset with an embedded interest rate.
