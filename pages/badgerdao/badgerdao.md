@@ -3,7 +3,7 @@
 name: "Badger"
 
 # The name of the logo file. Should have the same name as the markdown file.
-logo: "badger.png"
+logo: "badger.svg"
 
 # The main color of the project. Remember to quote this value.
 color: "#f2a52b"
