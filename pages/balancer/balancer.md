@@ -26,9 +26,9 @@ dashboards:
 queries: []
 embeds:
   - name: "Total Value Locked"
-    link: "https://duneanalytics.com/embeds/16156/32537/T1bCqh44NxiFLxFInYBeGnslWTN5AtWOXZZqZyRm" 
+    link: "https://duneanalytics.com/embeds/31193/62877/a7284a40-96e1-484b-a99b-cc00c25f16b5"
   - name: "Weekly Volume"
-    link: "https://explore.duneanalytics.com/embed/query/12054/visualization/24005?api_key=dOW94Gbt2IA5UiHyQPHzl7opeF2OG05wTlzy085H" 
+    link: "https://duneanalytics.com/embeds/31197/62885/4bc9872e-a0b4-4653-8169-e378fab58aa9"
 ---
 
 **Balancer is a protocol for programmable liquidity**
