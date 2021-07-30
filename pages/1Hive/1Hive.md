@@ -23,38 +23,34 @@ links:
     link: "https://discord.gg/SXgZk5hGUC"
 
 tags:
-  - "DAI" # ...explore.duneanalytics.com/dashboards?tags=DAI
-  - "makerdao" # ...explore.duneanalytics.com/dashboards?tags=makerdao
-  - "maker"
-  - "DeFi"
-  
-# List of related projects. These projects must exist in this repo and the name...
-related: 
-  - "makerdao" # ...should match like "pages/makerdao/makerdao.md".
+  - "honey"
+  - "honeyswap"
 
 # List of relevant dashboard slugs prefixed with username
 dashboards:
-  - "user1/maker-dao---mcd"
-  - "user2/makerdao-liquidations"
-  - "user3/dex-metrics"
+  - "hernandoagf/1Hive-DI"
+  - "hernandoagf/HNY-Lorenz-Curve"
 
 # List of relevant query-ids.
 queries:
-  - 855
+  - 92415
+  - 45728
 
 # List of visualizations to embed
 embeds:
-  - name: "This is the name of the embed"
-    link: "https://explore.duneanalytics.com/embed/query/2165/visualization/4001?api_key=D8MK8HstMF3MsVksW83C1eGBrnGk8POh8EfFkUbv" 
+  - name: "Amount of users who added or removed liquidity on Honeyswap"
+    link: "https://duneanalytics.com/embeds/83388/166137/e47706c3-ff44-44e5-9709-bbfd2ff97b9a" 
 ---
 
-The Dai stablecoin is a decentralized, unbiased, collateral-backed cryptocurrency 
-soft-pegged to the US Dollar. Dai is held in cryptocurrency wallets or within 
-platforms, and is supported on Ethereum and other popular blockchains.
+1Hive is a community that builds and experiments with decentralized applications 
+and protocols. At the center of these experiments is an effort to build 
+a sustainable and thriving economy around a currency called Honey, which is used 
+to influence the direction of the community.
 
-Dai is easy to generate, access, and use. Users generate Dai by depositing collateral 
-assets into Maker Vaults within the Maker Protocol. This is how Dai is entered into 
-circulation and how users gain access to liquidity. Others obtain Dai by buying it 
-from brokers or exchanges, or simply by receiving it as a means of payment.
+As an open community, anyone can join and participate in 1Hive. The barriers 
+to entry are extremely low; simply show up and start to contribute. We already have 
+several programs which reward contribution with Honey including the Honey Faucet 
+and Pollen that don’t require any upfront capital, and we have fostered a culture 
+that encourages community mentorship, inclusion, and taking initiative.
 
-*From https://makerdao.com/en/whitepaper.*
+*From https://wiki.1hive.org/*
