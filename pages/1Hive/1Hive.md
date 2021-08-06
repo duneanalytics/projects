@@ -1,7 +1,7 @@
 ---
 name: "1Hive" 
 
-logo: "1Hive.svg"
+logo: "1Hive.png"
 
 color: "#7CE0D6"
 
