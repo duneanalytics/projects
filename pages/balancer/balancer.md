@@ -4,13 +4,14 @@ logo: "balancer.svg"
 color: "#333333"
 schemas:
   - "balancer"
+  - "balancer_v2"
 links:
   - name: "Website"
-    link: "https://balancer.finance/"
+    link: "https://balancer.fi"
   - name: "Docs"
-    link: "https://docs.balancer.finance/"
-  - name: "Whitepaper"
-    link: "https://balancer.finance/whitepaper/"
+    link: "https://docs.balancer.fi"
+  - name: "Discord"
+    link: "https://discord.com/invite/ARJWaeF"
 tags:
   - "balancer"
   - "AMM"
@@ -23,6 +24,8 @@ dashboards:
   - "balancerlabs/balancer-lbp"
   - "balancerlabs/Balancer-Volume-Token-Breakdown"
   - "balancerlabs/Balancer-Volume-Pool-Breakdown"
+  - "balancerlabs/Balancer-Volume-Source-Breakdown"
+  - "balancerlabs/Balancer-Pool-Analysis"
 queries: []
 embeds:
   - name: "Total Value Locked"
@@ -31,15 +34,4 @@ embeds:
     link: "https://duneanalytics.com/embeds/31197/62885/4bc9872e-a0b4-4653-8169-e378fab58aa9"
 ---
 
-**Balancer is a protocol for programmable liquidity**
-
-**Generalized AMM**  
-Customizable number of assets and weights within a pool
-
-**Global Liquidity**  
-Trade against all pools in the Balancer ecosystem for best price execution
-
-**Smart Pools**  
-Pools controlled by smart contracts can implement any arbitrary trading strategy or logic
-
-*From https://balancer.finance/.*
+**Balancer is an automated portfolio manager and trading platform**
