@@ -4,13 +4,14 @@ logo: "balancer.svg"
 color: "#333333"
 schemas:
   - "balancer"
+  - "balancer_v2"
 links:
   - name: "Website"
     link: "https://balancer.fi/"
   - name: "Docs"
     link: "https://docs.balancer.fi/"
-  - name: "Whitepaper"
-    link: "https://balancer.fi/whitepaper/"
+  - name: "Discord"
+    link: "https://discord.com/invite/ARJWaeF"
 tags:
   - "balancer"
   - "AMM"
@@ -38,15 +39,4 @@ embeds:
     link: "https://dune.xyz/embeds/95324/217365/520ab77e-5dfb-4278-aa43-c5248d32a6f4"
 ---
 
-**Balancer is a protocol for programmable liquidity**
-
-**Generalized AMM**  
-Customizable number of assets and weights within a pool
-
-**Global Liquidity**  
-Trade against all pools in the Balancer ecosystem for best price execution
-
-**Smart Pools**  
-Pools controlled by smart contracts can implement any arbitrary trading strategy or logic
-
-_From https://balancer.fi/._
+**Balancer is the leading platform for programmable liquidity**
