@@ -1,6 +1,6 @@
 ---
 name: "Index Coop"
-logo: "index-coop.png"
+logo: "index-coop.svg"
 color: "#FABF00"
 schemas:
   - "indexcoop"
