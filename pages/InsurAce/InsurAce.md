@@ -15,9 +15,11 @@ tags:
   - "insurace"
   - "insurance"
   - "DeFi"
+related: []
 dashboards:
   - "Zy/InsurAce-Cover-Statistics"
   - "Zy/InsurAce"
+queries: []
 embeds:
   - name: "Cover Count Distribution - Currency"
     link: "https://dune.xyz/queries/90248/180192"
