@@ -16,6 +16,7 @@ tags:
   - "DeFi"
   - "lp"
 dashboards:
+  - "mrblock_buidl/Curve.fi"
   - "pengiundev/curve-fi"
 queries:
   - 2271
