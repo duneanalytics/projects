@@ -18,14 +18,14 @@ tags:
 dashboards:
   - "Brecht/loopring"
 queries:
-  - 2324
-  - 2165
-  - 2321
+  - 14508
+  - 14398
+  - 18075
 embeds:
   - name: "Loopring.io Daily Volume"
-    link: "https://explore.duneanalytics.com/embed/query/2324/visualization/4321?api_key=u69EF4fRavSQWPgQEK8Qw36SjsISkv7roJLWQKyA"
-  - name: "Loopring.io Total Value Locked"
-    link: "https://explore.duneanalytics.com/embed/query/2165/visualization/4001?api_key=D8MK8HstMF3MsVksW83C1eGBrnGk8POh8EfFkUbv"
+    link: "https://explore.duneanalytics.com/embed/query/14508/visualization/29118?api_key=u69EF4fRavSQWPgQEK8Qw36SjsISkv7roJLWQKyA"
+  - name: "Loopring.io Transactions"
+    link: "https://explore.duneanalytics.com/embed/query/14398/visualization/28895?api_key=D8MK8HstMF3MsVksW83C1eGBrnGk8POh8EfFkUbv"
 ---
 
 Loopring is a zkRollup Exchange and Payment Protocol.
