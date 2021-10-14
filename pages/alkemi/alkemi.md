@@ -19,7 +19,7 @@ dashboards:
   - "warbuxx87/Alkemi-Network"
   - "elliott/Alkemi-Earn"
 queries:
-  - 7495 [ID of queries outside dashboards]
+
 ---
 
 Alkemi is building an on-chain liquidity network with a suite of tools and products that serve as onramps for everyone to participate in decentralized finance.
