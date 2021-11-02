@@ -20,7 +20,7 @@ tags:
 related:
   - "frax"
 dashboards:
-  - "wd021/FXS"
+  - "wd021/FXS-(FRAX-Shares)"
   - "wd021/FRAX"
 embeds:
   - name: "Wallets With FXS"
