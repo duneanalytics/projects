@@ -21,7 +21,7 @@ related:
   - "fxs"
 dashboards:
   - "wd021/FRAX"
-  - "wd021/FXS"
+  - "wd021/FXS-(FRAX-Shares)"
 embeds:
   - name: "Total FRAX Supply"
     link: "https://dune.xyz/embeds/218356/410091/139a762c-22e4-48a9-a05e-135d4c9dd829"
