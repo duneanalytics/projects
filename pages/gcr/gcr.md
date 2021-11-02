@@ -6,7 +6,7 @@ name: "GCR"
 logo: "gcr.png"
 
 # The main color of the project. Remember to quote this value.
-color: "#051337"
+color: "#2649f5"
 
 # List of relevant schemas you can query in dune.
 schemas: 
