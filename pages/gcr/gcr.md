@@ -8,10 +8,6 @@ logo: "gcr.png"
 # The main color of the project. Remember to quote this value.
 color: "#2649f5"
 
-# List of relevant schemas you can query in dune.
-schemas: 
-  - "gcr"
-
 # List of relevant links to the project.
 links:
   - name: "Website"
@@ -19,11 +15,13 @@ links:
   - name: "FAQs"
     link: "https://globalcoinresearch.com/faq/"
   - name: "Discord"
-    link: "https://discord.com/invite/sVC8WXA"
+    link: "https://discord.gg/globalcoinresearch"
 
 # List of applicable tags in Dune. These will link to e.g...
 tags:
   - "GCR" 
+  - "DAO" 
+  - "community" 
   - "gcr"
   - "globalcoinresearch"
   
