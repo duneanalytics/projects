@@ -11,7 +11,7 @@ links:
   - name: "Docs"
     link: "https://docs.balancer.fi/"
   - name: "Discord"
-    link: "https://discord.com/invite/ARJWaeF"
+    link: "https://discord.balancer.fi/"
 tags:
   - "balancer"
   - "AMM"
