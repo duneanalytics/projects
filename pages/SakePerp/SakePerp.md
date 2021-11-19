@@ -15,8 +15,10 @@ tags:
   - "sakeperp.fi"
   - "DeFi"
 dashboards:
-  - "pengiundev/curve-fi"
+  - "gitcharmer/sakeperp"
 queries:
+  - 251562
+  - 251542
 embeds:
 ---
 
