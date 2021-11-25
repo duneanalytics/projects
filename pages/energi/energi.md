@@ -31,5 +31,5 @@ embeds:
 
 After launching NRG in the middle of a bear market as a self-funded cryptocurrency without an ICO or premine, Energi has grown into a global organization of over 60 dedicated team members. Through a governance and treasury model that is unique in the space, Energi is funding and managing the development of innovative blockchain solutions in pursuit of being the first cryptocurrency to drive truly global adoption.
 
-*From https://energi.world/
+*From https://www.energi.world/whitepaper/
 
