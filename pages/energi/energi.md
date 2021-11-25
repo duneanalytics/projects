@@ -21,9 +21,9 @@ dashboards:
   - "zalam003/energiswap-governance"
   - "zalam003/energiswap-combined-metrics"
 embeds:
-  - name: "Uniswap Weekly volume"
+  - name: "Energiswap Weekly volume"
     link: "https://explore.duneanalytics.com/embed/query/7867/visualization/15678?api_key=0jqZBJ3gFo2akmqhcBPwCgG11dXEDey8m3NlkvF6" 
-  - name: "Cumulative Uniswap volume"
+  - name: "Cumulative Energiswap volume"
     link: "https://explore.duneanalytics.com/embed/query/8086/visualization/16180?api_key=AfneRAzINw7GQeEOYd6ixGKZUL8A0RfalGTXvmEP" 
 ---
 **Energi** is a revolutionary blockchain-based financial technology organization founded on the goal of delivering secure, decentralized solutions that eliminate the need for traditional financial institutions. 
