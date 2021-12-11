@@ -39,7 +39,11 @@ dashboards:
 queries: []
 
 # List of visualizations to embed
-embeds: []
+embeds:
+  - name: "Temple DAO Treasury"
+  - link: "https://dune.xyz/embeds/237286/444049/2d170ee8-29d0-4b30-aa50-3652728b4f5c"
+  - name: "Intrinsic Value and Over the Counter Price"
+  - link: "https://dune.xyz/embeds/237286/444046/03776551-1308-480b-a912-967050fb3b28"
 ---
 
 In a world of volatility and instant gratification, the Temple of long-term wealth creation is where Templars come to stake, sleep easy, and chill.
