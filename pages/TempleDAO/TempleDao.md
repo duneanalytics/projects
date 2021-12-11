@@ -3,7 +3,7 @@
 name: "TempleDAO"
 
 # The name of the logo file. Should have the same name as the markdown file.
-logo: "TempleDAO.svg"
+logo: "TempleDAO_logo.svg"
 
 # The main color of the project. Remember to quote this value.
 color: "#BD7B4F"
