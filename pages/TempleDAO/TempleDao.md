@@ -27,8 +27,8 @@ tags:
   - "DeFi"
   - "yield"
 
-  # List of related projects. These projects must exist in this repo and the name...
-  related: []
+# List of related projects. These projects must exist in this repo and the name...
+related: []
 
 # List of relevant dashboard slugs prefixed with username
 dashboards:
