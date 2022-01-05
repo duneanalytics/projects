@@ -1,9 +1,8 @@
 ---
 name: "kishimoto"
-logo: "kishimoto.png"
+logo: "kishimoto.jpg"
 color: "#121212"
-schemas:
-  - "uniswap"
+schemas: []
 links:
   - name: "Website"
     link: "https://www.kishimotoinu.com/"
