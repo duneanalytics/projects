@@ -1,9 +1,9 @@
 ---
-# Name of the project. Also the URL i.e. duneanalytics.com/projects/dai.
+# Name of the project. Also the URL i.e. duneanalytics.com/projects/dai
 name: "TempleDAO"
 
 # The name of the logo file. Should have the same name as the markdown file.
-logo: "TempleDAO_logo.svg"
+logo: "TempleDAO.svg"
 
 # The main color of the project. Remember to quote this value.
 color: "#BD7B4F"

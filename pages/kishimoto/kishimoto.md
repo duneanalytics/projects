@@ -21,6 +21,7 @@ tags:
   - "ninjavpn"
 dashboards:
   - "wolf/Kishimoto-Inu"
+queries: []
 embeds: []
 ---
 
