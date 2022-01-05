@@ -1,3 +1,4 @@
+---
 name: "Kishimoto"
 logo: "kishimoto.png"
 color: "#121212"
