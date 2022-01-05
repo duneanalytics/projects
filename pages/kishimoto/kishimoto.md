@@ -1,5 +1,5 @@
 ---
-name: "Kishimoto"
+name: "kishimoto"
 logo: "kishimoto.png"
 color: "#121212"
 schemas:
