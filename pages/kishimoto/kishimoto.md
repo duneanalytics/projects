@@ -1,6 +1,6 @@
 ---
 name: "kishimoto"
-logo: "kishimoto.jpg"
+logo: "kishimoto.svg"
 color: "#121212"
 schemas: []
 links:
