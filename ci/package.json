@@ -1,0 +1,15 @@
+{
+  "name": "ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "check_projects.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wilhelm",
+  "license": "ISC",
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "validate.js": "^0.13.1"
+  }
+}

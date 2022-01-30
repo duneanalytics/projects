@@ -22,10 +22,10 @@ queries:
   - 1192
 embeds:
   - name: "1inch USD Volume Per Month"
-    link: "https://explore.duneanalytics.com/embed/query/1201/visualization/2048?api_key=1nxpOfINoCOzTRHSc15PWaHlu3vjyQinBbYjtDNU" 
+    link: "https://explore.duneanalytics.com/embed/query/1201/visualization/2048?api_key=1nxpOfINoCOzTRHSc15PWaHlu3vjyQinBbYjtDNU"
 ---
 
-1inch is a distributed network for decentralized protocols on Ethereum and BSC (Binance Smart Chain) enabling the most lucrative, fastest and protected operations in DeFi (decentralized finance). 
+1inch is a distributed network for decentralized protocols on Ethereum and BSC (Binance Smart Chain) enabling the most lucrative, fastest and protected operations in DeFi (decentralized finance).
 
 The 1inch Network consists of 5 distinct yet interoperable components:
 
