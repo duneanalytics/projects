@@ -22,9 +22,5 @@ jobs:
         working-directory: ci
         run: npm install
 
-      - name: Run md file checks
-        run: node ci/check_md_files.js
-
-
-      - name: Run image file checks
-        run: node ci/check_images.js
+      - name: Check projects
+        run: node ci/check_projects.js
