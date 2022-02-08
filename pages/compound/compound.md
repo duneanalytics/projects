@@ -16,14 +16,15 @@ tags:
   - "DeFi"
   - "DEX"
 dashboards:
-  - "MatteoLeibowitz/compound-master-"
-  - "cjliu49/compound-bi"
+  - "messari/Messari:-Compound-Macro-Financial-Statements"
+  - "datanut/Compound-Finance-Deposits-and-Loans"
+  - "PierreYves_Gendron/WIP-COMP"
   - "lsquared/compound-governance"
 queries:
-  - 4236
+  - 26872
 embeds:
-  - name: "Compound Outstanding Debt"
-    link: "https://explore.duneanalytics.com/embed/query/1936/visualization/3456?api_key=6GLrkiJUQhnXuzfcFcaOFJs9thx5GACpxArzUBbx"
+  - name: "Compound monthly net borrowing activity (in USD)"
+    link: "https://dune.xyz/embeds/26872/54425/adf66f43-4886-4e14-bf19-a168c786dcfc"
 ---
 
 **Compound** is an algorithmic, autonomous interest rate protocol built for developers, to unlock a universe of open financial applications.
