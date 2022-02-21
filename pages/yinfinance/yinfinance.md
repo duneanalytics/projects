@@ -21,12 +21,8 @@ tags:
   - "DODO"
   - "MCDEX"
 dashboards:
-  - "???"
+  - "yin_finance/YIN-Finance"
 queries:
-  - "???"
-embeds:
-  - name: "YFI Staking"
-    link: "???"
+  - 261046
 ---
-
- **yin.finance** is a 
+ **yin.finance** is a Multi-strategy NFT liquidity optimizer
