@@ -1,0 +1,26 @@
+name: Run Checks
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v1
+      - uses: actions/cache@v2
+        with:
+          path: 'ci/node_modules'
+          key: ${{ runner.os }}-modules-${{ hashFiles('ci/package-lock.json') }}
+
+
+      - uses: actions/setup-node@v2
+        with:
+          node-version: "14"
+
+      - name: Install
+        working-directory: ci
+        run: npm install
+
+      - name: Check projects
+        run: node ci/check_projects.js
