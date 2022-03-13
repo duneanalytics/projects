@@ -1,6 +1,6 @@
 ---
-name: "Walker"
-logo: "walker.svg"
+name: "0Walker"
+logo: "0walker.svg"
 color: "#FA003B"
 schemas:
   - "walker"
@@ -27,7 +27,7 @@ embeds:
 ---
 
 **Diversified Risk Products**
-Walker Financial's self-custody and DeFi branch of their parent company creates and maintains the world's best crypto index products. All index products are always fully collateralized.
+Walker Financial's self-custody and DeFi branch of their parent company (Walker) creates and maintains the world's best crypto index products. All index products are always fully collateralized.
 
 **Decentralized & Autonomous**
 Walker is a Decentralized and Autonomous Asset Manager governed, maintained, and upgraded by Walker (WLKR) token holders.
