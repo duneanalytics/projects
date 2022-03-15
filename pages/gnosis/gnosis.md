@@ -9,28 +9,28 @@ links:
     link: "https://gnosis.io/"
   - name: "Gnosis Safe"
     link: "https://gnosis-safe.io/"
-  - name: "Gnosis Protocol"
-    link: "https://docs.gnosis.io/protocol/"
-  - name: "Conditional Token Framework"
-    link: "https://docs.gnosis.io/conditionaltokens/"
+  - name: "CoW Protocol"
+    link: "https://cow.fi"
+  - name: "CowSwap"
+    link: "https://cowswap.exchange"
   - name: "Github"
     link: "https://github.com/gnosis"
 tags:
   - "Gnosis Safe"
-  - "Gnosis Protocol"
+  - "CoW Protocol"
   - "DEX"
   - "DeFi"
-  - "IDO"
+  - "MEV"
 dashboards:
   - "tschubotz/gnosis-safe_2"
-  - "gnosis.protocol/kpi-gnosis-protocol"
-  - "bh2smith/gnosis-protocol-custom-market-making"
+  - "gnosis.protocol/CowSwap"
+  - "gnosis.protocol/GPv2-Solver-Info"
   - "Greame87/conditional-token-framework_1"
 embeds:
   - name: "Gnosis Safe Total Value Locked"
     link: "https://explore.duneanalytics.com/embed/query/5059/visualization/9969?api_key=d4YzPKwiyQGjBfvHMu9QlA23a4ZdlGBTz7Et01nw"
   - name: "Gnosis Protocol Daily Trading Volume"
-    link: "https://explore.duneanalytics.com/embed/query/8790/visualization/17606?api_key=jN8q3XqC8sWUnHw2uzLciDLXNPmv0I4IDYcJA5W3"
+    link: "https://dune.xyz/embeds/37065/75258/jN8q3XqC8sWUnHw2uzLciDLXNPmv0I4IDYcJA5W3"
 ---
 
 Gnosis builds new market mechanisms for open finance. By designing fairer marketplaces with open-source building blocks, Gnosis is committed to supporting an accessible, equitable future for decentralized finance. Our three interoperable product lines allow you to securely create, trade, and hold crypto assets.
