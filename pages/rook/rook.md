@@ -25,12 +25,9 @@ links:
 
 # List of applicable tags in Dune. These will link to e.g...
 tags:
-  - "ROOK" # ...explore.duneanalytics.com/dashboards?tags=DAI
+  - "ROOK" 
   - "DeFi"
   
-# # List of related projects. These projects must exist in this repo and the name...
-# related: 
-#   - "makerdao" # ...should match like "pages/makerdao/makerdao.md".
 
 # List of relevant dashboard slugs prefixed with username
 dashboards:
@@ -41,9 +38,9 @@ dashboards:
   - "0x_stubbs/ROOK-Rewards"
 
 
-# List of relevant query-ids.
-queries:
-  - 855
+# # List of relevant query-ids.
+# queries:
+#   -
 
 # List of visualizations to embed
 embeds:
