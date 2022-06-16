@@ -1,18 +1,9 @@
 ---
-# Name of the project. Also the URL i.e. duneanalytics.com/projects/dai.
 name: "ROOK" 
-
-# The name of the logo file. Should have the same name as the markdown file.
 logo: "rook_logo.svg"
-
-# The main color of the project. Remember to quote this value.
 color: "#1e81d2"
-
-# List of relevant schemas you can query in dune.
 schemas: 
   - "keeperdao_v2"
-
-# List of relevant links to the project.
 links:
   - name: "Website"
     link: "https://app.rook.fi/"
@@ -22,27 +13,16 @@ links:
     link: "https://blog.rook.fi/"
   -name: "Rook Forum"
     link: "https://forum.rook.fi/"
-
-# List of applicable tags in Dune. These will link to e.g...
 tags:
   - "ROOK" 
   - "DeFi"
-  
-
-# List of relevant dashboard slugs prefixed with username
 dashboards:
   - "0x_stubbs/Rook-Ecosystem"
   - "0x_stubbs/ROOK-Protocol"
   - "0x_stubbs/KeeperDAO-Treasury"
   - "0x_stubbs/ROOK-CVX-Investment-CVX-Buys"
   - "0x_stubbs/ROOK-Rewards"
-
-
-# # List of relevant query-ids.
-# queries:
-#   -
-
-# List of visualizations to embed
+queries: []
 embeds:
   - name: "ROOK Protocol - Daily Transaction Volume"
     link: "https://dune.com/embeds/666273/1237132/1acd55d3-63dd-419f-9743-d5b2a4405928" 
