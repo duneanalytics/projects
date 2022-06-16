@@ -1,17 +1,9 @@
-# Name of the project. Also the URL i.e. duneanalytics.com/projects/zerion.
+---
 name: "Zerion" 
-
-# The name of the logo file. Should have the same name as the markdown file.
 logo: "zerion.svg"
-
-# The main color of the project. Remember to quote this value.
 color: "#2962EF"
-
-# List of relevant schemas you can query in dune.
 schemas: 
   - "zerion"
-
-# List of relevant links to the project.
 links:
   - name: "Website"
     link: "https://zerion.io/"
@@ -19,20 +11,14 @@ links:
     link: "https://twitter.com/zerion_io"
   - name: "Discord"
     link: "https://zerion.io/discord"
-
-# List of applicable tags in Dune. These will link to e.g...
 tags:
   - "Zerion" 
   - "Wallet"
   - "DeFi"
   - "NFT"
-  
-# List of relevant dashboard slugs prefixed with username
 dashboards:
   - "hildobby/zerion-on-ethereum"
   - "hildobby/Zerion-L1s-and-L2s-Router?Granularity=Daily"
-
-# List of visualizations to embed
 embeds:
   - name: "Ethereum Volume"
     link: "https://dune.com/queries/834224/1458564"
