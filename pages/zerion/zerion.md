@@ -1,3 +1,4 @@
+---
 # Name of the project. Also the URL i.e. duneanalytics.com/projects/zerion.
 name: "Zerion" 
 

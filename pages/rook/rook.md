@@ -20,7 +20,7 @@ links:
     link: "https://docs.rook.fi/reference/"
   - name: "Blog"
     link: "https://blog.rook.fi/"
-  -name: "Rook Forum"
+  - name: "Rook Forum"
     link: "https://forum.rook.fi/"
 
 # List of applicable tags in Dune. These will link to e.g...
