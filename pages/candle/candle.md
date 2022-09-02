@@ -24,7 +24,7 @@ tags:
 related:
   - "candle"
 dashboards:
-  - "cndl/Candle-Holder-Count-By-Day"
+  - "cndl/CNDL"
 queries:
   - 960
 embeds:
