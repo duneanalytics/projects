@@ -1,5 +1,5 @@
 ---
-name: "0Walker"
+name: "0xWalker"
 logo: "0walker.svg"
 color: "#FA003B"
 schemas:
@@ -7,11 +7,11 @@ schemas:
   - "wlkrprotocol_v2"
 links:
   - name: "Website"
-    link: "https://walkrfinance.com/"
+    link: "https://wlkr.finance/"
   - name: "Forum"
-    link: "https://gov.walkrfinance.com/"
+    link: "https://gov.wlkr.finance"
   - name: "Docs"
-    link: "https://docs.walkrfinance.com/"
+    link: "https://docs.wlkr.finance"
   - name: "Discord"
     link: "https://discord.gg/NHWkSatPSn"
 tags:
@@ -19,6 +19,7 @@ tags:
   - "DeFi"
   - "Asset Management"
   - "WLKR"
+  - "CNDL"
 dashboards:
   - "walkerfinance/Walker-Financial"
 embeds:
@@ -32,4 +33,4 @@ Walker Financial's self-custody and DeFi branch of their parent company (Walker)
 **Decentralized & Autonomous**
 Walker is a Decentralized and Autonomous Asset Manager governed, maintained, and upgraded by Walker (WLKR) token holders.
 
-*From https://walkrfinance.com*
+*From https://wlkr.finance*
