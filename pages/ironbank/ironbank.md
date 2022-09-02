@@ -4,7 +4,7 @@ logo: "ironbank.svg"
 color: "#009444"
 schemas:
   - "ironbank"
-    links:
+links:
   - name: "Website"
     link: "https://app.ib.xyz/"
   - name: "Docs"
@@ -31,10 +31,12 @@ embeds:
     link: "https://dune.com/embeds/1005786/1738437/9fbd607e-1364-46b8-8975-c80f67e8769c"
   - name: "IronBank Daily Borrowers by Lending Market"
     link: "https://dune.com/embeds/1005864/1738574/c22fb70d-aa8a-429b-9451-ae1e915c904a"
-
 ---
 
-**IronBank** is a blockchain agnostic, decentralized peer to peer lending platform based on a fork of Compound Finance.
-Iron Bank bridges liquidity across underserved assets by providing algorithmic money markets to these underserved assets. Users can supply any supported assets and use these supplied assets as collateral to borrow any other supported assets. Iron Bank has launched on Ethereum, Fantom and Avalance.
+**IronBank**
+Is a blockchain agnostic, decentralized peer to peer lending platform based on a fork of Compound Finance.
+Iron Bank bridges liquidity across underserved assets by providing algorithmic money markets to these underserved assets. 
+Users can supply any supported assets and use these supplied assets as collateral to borrow any other supported assets. 
+Iron Bank has launched on Ethereum, Fantom and Avalance.
 
-*From https://app.ib.xyz/*
+*From https://app.ib.xyz/_
