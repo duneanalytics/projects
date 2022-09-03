@@ -36,7 +36,7 @@ dashboards:
 # List of visualizations to embed
 embeds:
   - name: "GCR Community by Membership Type"
-    link: "https://dune.xyz/embeds/222291/416967/0ea656e6-15f7-45e3-9b9f-f050697d870c" 
+    link: "https://dune.com/embeds/679243/1259774/1fde40ea-880b-4bf4-870e-ca495375de0a" 
 ---
 
 Global Coin Research is a tokenized, decentralized DAO of learners and investors in web3.
