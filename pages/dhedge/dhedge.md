@@ -26,11 +26,7 @@ links:
 tags:
   - "dHEDGE" # ...explore.duneanalytics.com/dashboards?tags=DAI
   - "dhedge" # ...explore.duneanalytics.com/dashboards?tags=makerdao
-  - "#dHedgeV2"
-
-# List of related projects. These projects must exist in this repo and the name...
-related:
-  - [] # ...should match like "pages/makerdao/makerdao.md".
+  - "dHedgeV2"
 
 # List of relevant dashboard slugs prefixed with username
 dashboards:
@@ -38,10 +34,6 @@ dashboards:
   - "vishy0108/dhedge-v2-polygon"
   - "roblw/dHedge-V1"
   - "jakerichards/dHEDGE-General"
-
-# List of relevant query-ids.
-queries:
-  - []
 
 # List of visualizations to embed
 embeds:
