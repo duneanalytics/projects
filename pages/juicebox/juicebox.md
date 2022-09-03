@@ -1,6 +1,6 @@
 ---
 name: "Juicebox"
-logo: "juicebox.svg"
+logo: "juicebox.png"
 color: "#f5a312"
 schemas:
   - "juicebox"
@@ -22,17 +22,26 @@ dashboards:
   - "twodam/Juicebox-Protocol-Overview"
   - "twodam/Juicebox-Projects"
   - "twodam/Juicebox-Portfolio"
-  - "twodam/Juicebox-Benefits-Airdrop"
+  - "twodam/Juicebox-Logbook"
 queries:
   - []
 embeds:
-  - name: "Total raised in USD"
-    link: "https://dune.com/embeds/389371/742369/72628fa2-2439-4f84-b147-3758b76885f3"
-  - name: "New projects"
-    link: "https://dune.com/embeds/389630/742977/b2a85dd8-30eb-484a-b400-ff93048d90f9"
-  - name: "Payment activity"
-    link: "https://dune.com/embeds/389638/743005/71b5c384-507a-480d-a243-43b83afa82ce"
+  - name: "Total Raised in USD"
+    link: "https://dune.com/embeds/1170127/2000702/5d144cdd-23f0-4238-b02e-65b218508aed"
+  - name: "New proejcts"
+    link: "https://dune.com/embeds/389630/742977/6c1ca61d-031d-45e7-8900-b00abfb5258b"
+  - name: "Fee and payment times"
+    link: "https://dune.com/embeds/389638/743005/be1b5ec7-5e6d-4936-8bcf-af8373cb8eb9"
 ---
+
+**Fund anything**
+The programmable funding protocol for builders and creators. Light enough for a group of friends, powerful enough for a global network of anons. Community-owned, on Ethereum.
+Built for:
+
+* DAOs
+* Crowdfunding
+* NFT projects
+* Indie creators and builders
 
 **Programmable spending**
 Commit portions of your funds to the people or projects you want to support, or the contributors you want to pay. When you get paid, so do they.
