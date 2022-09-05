@@ -1,6 +1,6 @@
 ---
 name: "Juicebox"
-logo: "juicebox.png"
+logo: "juicebox.svg"
 color: "#f5a312"
 schemas:
   - "juicebox"
