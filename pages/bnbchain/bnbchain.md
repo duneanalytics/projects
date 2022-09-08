@@ -26,8 +26,9 @@ related:
 dashboards:
   - "hicrypto/BNBChain-Chain-Stats-and-Trends"
   - "hicrypto/BNBChain-Gas"
-  - "brownboy/BNB-NFT-Summary"
+  - "becks0303/liquid-staking-on-bnbchain"
   - "akriti_vij_binance/BNB-NFT-Marketplaces-Trading-Volume"
+  - "brownboy/BNB-NFT-Summary"
 queries:
   - 960
 embeds:
