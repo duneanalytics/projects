@@ -22,11 +22,13 @@ dashboards:
   - "dbustos20/masq-analytics-dashboard"
 embeds:
   - name: "[MASQ] Fully Diluted Valuation"
-    link: "https://dune.com/embeds/1214074/2079426/163c5770-39a6-4a3d-a4e3-ee4cd1543429"
+    link: "https://dune.com/embeds/1331326/2275304/baa2cac5-6306-40cd-81c7-305dbc9c7d4c"
   - name: "[MASQ] Market Capital"
-    link: "https://dune.com/embeds/1214074/2080074/4399072f-6633-48c6-8d6b-b15b83f01d60"
-  - name: "[MASQ] All-time Trade Volume"
-    link: "https://dune.com/embeds/1216469/2109994/72bdff4e-0386-43b8-816c-0c44042bb392"         
+    link: "https://dune.com/embeds/1331326/2275290/9b7077f9-ec36-4df6-bd07-123988e446eb"
+  - name: "[MASQ] All-time Trade Volume (ETH Network)"
+    link: "https://dune.com/embeds/1331468/2275483/2cbbb4c0-3bfb-4dbd-bee2-02d257c33910"
+  - name: "[MASQ] All-time Trade Volume (ETH Network)"
+    link: "https://dune.com/embeds/1331542/2275613/73b9c1aa-fea7-4a98-b109-5df2e644261d"    
 ---
 
 **Live online without a trace.
