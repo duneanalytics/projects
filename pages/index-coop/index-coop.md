@@ -33,13 +33,4 @@ embeds:
     link: "https://dune.com/embeds/372394/708886/225f8c0b-73a7-4583-8413-caffb98e6739"         
 ---
 
-**Diversified Risk Products**
-Index Coop creates and maintains the world's best crypto index products. All index products are always fully collateralized.
-
-**Decentralized & Autonomous**
-Index Coop is a Decentralized and Autonomous Asset Manager governed, maintained, and upgraded by INDEX token holders.
-
-**Built with DeFi Leaders**
-Our products are built on Set Protocol's battle-tested V2 infrastructure. Product methodologies are sourced from industry experts like DeFi Pulse.
-
-*From https://www.indexcoop.com*
+The Index Coop is a decentralized autonomous organization (DAO) and the largest provider of on-chain structured decentralized finance (DeFi) products. Our diversified and automated products provide exposure to the most productive and sustainable strategies in DeFi. We currently offer a sector, leverage and yield-generating products via ERC20 tokens that are accessible, secure and simple to use.
