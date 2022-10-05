@@ -24,13 +24,7 @@ dashboards:
   - "index_coop/sector-products"
   - "index_coop/leverage-products"
   - "index_coop/yield-products"
-embeds:
-  - name: "[Index Coop] AUM by Product"
-    link: "https://dune.xyz/embeds/25300/51969/5f46e3b1-af99-4f02-b3f7-7ad2ff8ca68"
-  - name: "Index Coop Trading Volume - Weekly"
-    link: "https://dune.com/embeds/621855/1160075/b7f5701b-b483-48eb-8220-66e362a5b25a"
-  - name: "[Index Coop] Gross Revenue Weekly (Mainnet)"
-    link: "https://dune.com/embeds/372394/708886/225f8c0b-73a7-4583-8413-caffb98e6739"         
+embeds: 
   - name: "Index Coop Addresses w/ $100+ Last 90 Days"
     link: "https://dune.com/embeds/1332657/2277641/58c9e263-674b-4f43-a618-9177164a5147"
   - name: "Index Coop Cumulative Net Flows - All Time"
