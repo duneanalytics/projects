@@ -1,6 +1,8 @@
 // Contraints for properties in the md-files
 // Used with validate.js: https://validatejs.org/#validators
 
+require('./addCustomValidators');
+
 module.exports = {
   name: {
     presence: true,
@@ -29,6 +31,16 @@ module.exports = {
   },
   embeds: {
     type: "array",
+    eachSatisfies: {
+      name: {
+        type: "string",
+        presence: true,
+      },
+      link: {
+        validEmbedLink: true,
+        presence: true,
+      },
+    },
   },
   related: {
     type: "array",
