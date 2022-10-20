@@ -41,4 +41,4 @@ Binance Chain and Binance Smart Chain have formed together as BNB Chain since Fe
 
 MetaFi is a concept that provides advanced and sophisticated DeFi Infra to all the different types of projects such as metaverse, GameFi, SocialFi, Web3, and NFTs and puts them under one umbrella – MetaFi.
 
-*From https://docs.bnbchain.world/docs/bnbIntro*
+_From https://docs.bnbchain.world/docs/bnbIntro_
