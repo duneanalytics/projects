@@ -1,6 +1,6 @@
 ---
 name: "MASQ"
-logo: "masq".svg"
+logo: "masq.svg"
 color: "#003060"
 schemas:
   - "masq"
