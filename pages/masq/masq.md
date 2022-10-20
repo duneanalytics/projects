@@ -19,7 +19,7 @@ tags:
   - "MASQ DVPN"
   - "Decentralized"
 dashboards:
-  - "dbustos20/masq-analytics-dashboard"
+  - "masq_network/masq-network-dashboard"
 embeds:
   - name: "[MASQ] Fully Diluted Valuation"
     link: "https://dune.com/embeds/1331326/2275304/baa2cac5-6306-40cd-81c7-305dbc9c7d4c"
