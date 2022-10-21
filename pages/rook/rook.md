@@ -13,7 +13,7 @@ links:
   - name: "Docs"
     link: "https://docs.rook.fi/reference/"
   - name: "Blog"
-    link: "https://blog.rook.fi/"
+    link: "https://www.rookbase.xyz/"
   - name: "Rook Forum"
     link: "https://forum.rook.fi/"
   - name: "Discord"
@@ -28,11 +28,11 @@ tags:
   - "Aggregator"
 related: []
 dashboards:
-  - "0x_stubbs/Rook-Ecosystem"
-  - "0x_stubbs/ROOK-Protocol"
+  - "rook/rook-ecosystem"
+  - "rook/rook-protocol"
   - "rook/rook-treasury"
-  - "0x_stubbs/ROOK-CVX-Investment-CVX-Buys"
-  - "0x_stubbs/ROOK-Rewards"
+  - "rook/rook-cvx-investment-review"
+  - "rook/rook-rewards"
 queries: []
 embeds:
   - name: "ROOK Protocol - Daily Transaction Volume"
