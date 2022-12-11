@@ -39,10 +39,6 @@ links:
 # List of applicable tags in Dune. These will link to e.g...
 tags:
   - "Optimism" # ...explore.duneanalytics.com/dashboards?tags=DAI
-  
-<!-- # List of related projects. These projects must exist in this repo and the name...
-related: 
-  - "makerdao" # ...should match like "pages/makerdao/makerdao.md". -->
 
 # List of relevant dashboard slugs prefixed with username
 dashboards:
