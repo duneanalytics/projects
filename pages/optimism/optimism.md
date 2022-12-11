@@ -21,6 +21,8 @@ links:
     link: "https://community.optimism.io/"
   - name: "Help Center"
     link: "https://help.optimism.io/hc/en-us"
+  - name: "The Optimistic Vision"
+    link: "https://www.optimism.io/vision"
   - name: "Governance Forums"
     link: "https://gov.optimism.io/"
   - name: "Optimism Ecosystem"
@@ -30,9 +32,9 @@ links:
   - name: "RetroPGF"
     link: "https://app.optimism.io/retropgf"
   - name: "Twitter"
-    link: "https://help.optimism.io/hc/en-us"
+    link: "https://twitter.com/optimismFND"
   - name: "Blog"
-    link: "https://help.optimism.io/hc/en-us"
+    link: "https://optimism.mirror.xyz/"
 
 # List of applicable tags in Dune. These will link to e.g...
 tags:
