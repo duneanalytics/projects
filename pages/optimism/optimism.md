@@ -21,15 +21,13 @@ links:
     link: "https://community.optimism.io/"
   - name: "Help Center"
     link: "https://help.optimism.io/hc/en-us"
+  - name: "Optimism Ecosystem"
+    link: "https://www.optimism.io/apps/all"
   - name: "The Optimistic Vision"
     link: "https://www.optimism.io/vision"
   - name: "Governance Forums"
     link: "https://gov.optimism.io/"
-  - name: "Optimism Ecosystem"
-    link: "https://www.optimism.io/apps/all"
-  - name: "Bridge"
-    link: "https://app.optimism.io/bridge/deposit"
-  - name: "RetroPGF"
+  - name: "Retroactive Public Goods Funding (RetroPGF)"
     link: "https://app.optimism.io/retropgf"
   - name: "Twitter"
     link: "https://twitter.com/optimismFND"
@@ -39,6 +37,8 @@ links:
 # List of applicable tags in Dune. These will link to e.g...
 tags:
   - "Optimism" # ...explore.duneanalytics.com/dashboards?tags=DAI
+  - "OP"
+  - "L2"
 
 # List of relevant dashboard slugs prefixed with username
 dashboards:
@@ -65,12 +65,9 @@ embeds:
   - name: "Optimism Token House - Top Delegates by Voting Weight"
     link: "https://dune.com/embeds/871360/1518911/ea541898-dda9-47cf-9a59-5015f80eae55"
 ---
-Optimism is a fast, stable, and scalable L2 blockchain built by Ethereum developers, for Ethereum developers. 
-Built as a minimal extension to existing Ethereum software, Optimism’s [EVM-equivalent architecture](https://medium.com/ethereum-optimism/introducing-evm-equivalence-5c2021deb306)
-scales your Ethereum apps without surprises. If it works on Ethereum, it works on Optimism at a fraction of the cost.
+Optimism is a fast, stable, and scalable L2 blockchain built by Ethereum developers, for Ethereum developers. Built as a minimal extension to existing Ethereum software, Optimism’s [EVM-equivalent architecture](https://medium.com/ethereum-optimism/introducing-evm-equivalence-5c2021deb306) scales your Ethereum apps without surprises. If it works on Ethereum, it works on Optimism at a fraction of the cost.
 
 **PHILOSOPHY**
-We pledge to uphold the values of Ethereum by producing infrastructure that promotes the growth and sustainability of public goods.
-See more at [optimism.io/about](https://www.optimism.io/about)
+We pledge to uphold the values of Ethereum by producing infrastructure that promotes the growth and sustainability of public goods. See more at [optimism.io/about](https://www.optimism.io/about)
 
-*From optimism.io & help.optimism.io/.*
+*From [optimism.io](https://www.optimism.io/) & [help.optimism.io](https://help.optimism.io/).*
