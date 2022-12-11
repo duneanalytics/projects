@@ -61,7 +61,7 @@ embeds:
   - name: "Top Projects on Optimism - Last 30 Days"
     link: "https://dune.com/embeds/491942/932394/dec1b71b-f548-413d-90d1-74100e2b848f"
   - name: "Optimism - Daily Sequencer Fee Margin"
-    link:
+    link: "https://dune.com/embeds/876366/2745145/4b7b45d9-c7b4-449f-8113-10e055b1cb3e"
   - name: "Optimism Token House - Top Delegates by Voting Weight"
     link: "https://dune.com/embeds/871360/1518911/ea541898-dda9-47cf-9a59-5015f80eae55"
 ---
