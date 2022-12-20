@@ -29,8 +29,12 @@ tags:
   - "IPOR"
   - "DeFi"
   - "Swap"
+  - "interest rate"
+  - "yield"
   - "Index"
-related: []
+related: 
+  - "aave"
+  - "compound"
 dashboards:
   - "ipor/ipor-protocol"
   - "ipor/ipor-rates"
@@ -50,10 +54,8 @@ embeds:
   - link: "https://dune.com/embeds/1602849/2663210/d3fc5f41-fc26-4168-8109-2521999d78d0"
 ---
 
-**IPOR** refers to a set of protocols, smart contracts, and software that forms a set of Decentralized Applications (DApps) for Decentralized Finance (DeFi) focused on interest rate derivatives.
+**IPOR** is a set of protocols, smart contracts, and software that forms a set of Decentralized Applications (DApps) for Decentralized Finance (DeFi) focused on interest rate derivatives.
 
-The core IPOR infrastructure consists of three main parts: the IPOR Index (Index), Liquidity Pools with an Automated Market Maker (AMM) and Asset Management smart contracts.
+The core IPOR infrastructure consists of three main parts: the IPOR Index (Index), Liquidity Pools with an Automated Market Maker (AMM), and Asset Management smart contracts.
 
-The first type of interest rate derivatives supported by the AMM are Interest Rate Swaps (Swap or IRS). The system also incorporates a Decentralized Autonomous Organization (DAO) and a Treasury in the spirit of decentralization.
-
-*From https://docs.ipor.io/.*
+*From https://ipor.io/.*
