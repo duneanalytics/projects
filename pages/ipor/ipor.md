@@ -1,7 +1,7 @@
 ---
 name: "IPOR"
 logo: "ipor.svg"
-color: "#111A37"
+color: "#05123B"
 schemas:
   - "ipor"
 links:
