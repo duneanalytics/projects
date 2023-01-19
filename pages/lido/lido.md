@@ -40,7 +40,7 @@ embeds:
 **The Liquid Staking Solution for PoS Blockchains**
 Lido is a liquid staking protocol for multiple PoS blockchains acked by industry-leading staking providers. stETH is the market-leading liquid staking derivative on the ETH network.
 
-**Strenghtening Network Infrastructure**
+**Strengthening Network Infrastructure**
 Lido lets users stake their ETH - without locking assets or maintaining infrastructure - whilst participating in on-chain activities, e.g. lending.
 
 **Unlocking Liquidity**
