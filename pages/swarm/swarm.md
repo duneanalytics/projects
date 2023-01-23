@@ -15,7 +15,7 @@ links:
   - name: "Blog"
     link: "https://blog.ethswarm.org/"
   - name: "Whitepaper"
-  	link: "https://www.ethswarm.org/swarm-whitepaper.pdf"
+    link: "https://www.ethswarm.org/swarm-whitepaper.pdf"
   - name: "Awesome Swarm"
     link: "https://github.com/ethersphere/awesome-swarm"
 
