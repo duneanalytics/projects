@@ -1,7 +1,7 @@
 ---
-name: "Swarm" 
+name: "Swarm"
 
-logo: "Swarm.svg"
+logo: "swarm.svg"
 
 color: "#DD7200"
 
@@ -25,8 +25,8 @@ tags:
   - "Ethereum"
   - "storage"
   - "bzz"
-  
-related: 
+
+related:
   - "gnosis"
 
 dashboards:
@@ -41,13 +41,12 @@ The system is economically self-sustaining due to a built-in incentive system en
 Swarm exists so the internet can again be decentralised.
 Swarm’s longer term vision is to become the operating system of the re-decentralised internet. It provides a scalable and self-sustaining infrastructure for a supply-chain economy of data.
 
-* **Unstoppable features for unstoppable dApps**: Privacy preservation, communication and redundancy are built in to ensure availability and continued data delivery even when individual nodes go offline. Any data, any device. On demand.
+- **Unstoppable features for unstoppable dApps**: Privacy preservation, communication and redundancy are built in to ensure availability and continued data delivery even when individual nodes go offline. Any data, any device. On demand.
 
-* **Radical data ownership and management**: Data is split up into small chunks that are stored throughout the network without vulnerable central hubs. Operators cannot know what content is stored on their nodes while still being paid for storing.
+- **Radical data ownership and management**: Data is split up into small chunks that are stored throughout the network without vulnerable central hubs. Operators cannot know what content is stored on their nodes while still being paid for storing.
 
-* **Enabling zero-cost economics**: No central party controls the data or can monetize it. Instead of relying on intermediaries to ensure the availability and integrity of data, all node operators participate in enabling a fair data economy.
+- **Enabling zero-cost economics**: No central party controls the data or can monetize it. Instead of relying on intermediaries to ensure the availability and integrity of data, all node operators participate in enabling a fair data economy.
 
 Shifting the cost of access, hosting and execution to users removes the last obstacle to truly agile and adaptive application development to make web3 a reality.
 
-*Read more at https://www.ethswarm.org/swarm-whitepaper.pdf*
-
+_Read more at https://www.ethswarm.org/swarm-whitepaper.pdf_
