@@ -28,7 +28,7 @@ dashboards:
   - "idle.finance/Idle-Finance-Revenue-Outlook" # revenues from products
   - "idle.finance/Rebalancer-Cost-Outlook"
   - "idle.finance/Idle.finance-B2B-Affiliate-Program-Dashboard"
-  idle.finance/Idle-DAO-Treasury-(ETH)
+  - "idle.finance/Idle-DAO-Treasury-(ETH)"
 queries:
   - 32683
   - 48316
