@@ -33,13 +33,6 @@ queries:
   - 32683
   - 48316
   - 40255
-embeds:
-  - name: "Yield Products Revenue Outlook"
-    link: "https://dune.com/idle.finance/Idle-Finance-Revenue-Outlook"
-  - name: "IDLE DEXs Metrics (Ethereum)"
-    link: "https://dune.com/idle.finance/dollarIDLE-DEXs-Metrics"
-  - name: "B2B Integration Program"
-    link: "https://dune.com/idle.finance/Idle.finance-B2B-Affiliate-Program-Dashboard"
 ---
 
 DeFi yields aren’t easy to manage. Idle makes you feel like they are. We build first-rate yield optimization and risk tranching strategies. Get the best yield by using, integrating or building on top products that will never allow your funds to sit still.
