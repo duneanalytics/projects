@@ -1,6 +1,6 @@
 ---
 name: "Nexus Mutual"
-logo: "nexusmutual.svg"
+logo: "nexus_mutual.svg"
 color: "#0AB682"
 schemas: 
   - "nexusmutual"
