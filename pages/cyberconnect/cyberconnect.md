@@ -45,4 +45,4 @@ CyberConnect Social Graph’s smart contracts represent key elements of social d
 
 The protocol also offers a rich set of customizable and extensible middleware smart contracts for ProfileNFT owners to choose when they want to issue their SubscriberNFT or EssenceNFT. The middleware design enables users to implement Web3-native use cases like “only BAYC holders can subscribe” or “pay 1 ETH to collect my 500 limited edition posts.” To learn more, visit [**CyberConnect Developer Center**](https://docs.cyberconnect.me/) or dive deep into our previous [**tutorials**](https://cyberconnect.hashnode.dev/getting-started-with-cyberconnect).
 
-*From https://rss3.io/#why-rss3*
+*From [https://cyberconnect.me/](https://cyberconnect.me/)*
