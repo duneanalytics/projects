@@ -16,13 +16,12 @@ tags:
   - "DEX"
   - "Aggregator"
 dashboards:
-  - "k06a/1inch-exchange"
-queries:
-  - 794
-  - 1192
+  - "1inch/main"
+  - "1inch/aggregator"
+  - "1inch/token"
 embeds:
   - name: "1inch USD Volume Per Month"
-    link: "https://explore.duneanalytics.com/embed/query/1201/visualization/2048?api_key=1nxpOfINoCOzTRHSc15PWaHlu3vjyQinBbYjtDNU"
+    link: "https://explore.duneanalytics.com/embed/query/1738852/visualization/2866870?api_key=1nxpOfINoCOzTRHSc15PWaHlu3vjyQinBbYjtDNU"
 ---
 
 1inch is a distributed network for decentralized protocols on Ethereum and BSC (Binance Smart Chain) enabling the most lucrative, fastest and protected operations in DeFi (decentralized finance).
