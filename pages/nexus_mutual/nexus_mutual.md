@@ -18,7 +18,11 @@ tags:
   - "Insurance"
 dashboards:
   - "nexus_mutual/capital-pool-and-ownership"
+  - "nexus_mutual/claims"
   - "rchen8/nexus-mutual"
+embeds:
+  - name: "Total claims paid by Nexus Mutual"
+    link: "https://dune.com/embeds/1423820/2638601" 
 
 ---
 Nexus Mutual is the insurance alternative for crypto and more.
