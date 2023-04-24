@@ -25,7 +25,7 @@ validate.validators.validEmbedLink = (link) => {
   }
   const match = link.match(
     link.includes("/embeds/")
-      ? new RegExp("/embeds/(\\d+)/(\\d+)/([^/?#]+)")
+      ? new RegExp("/embeds/(\\d+)/(\\d+)/?([^/?#]+)?")
       : new RegExp("/query/(\\d+)/visualization/(\\d+)\\?api_key=([^&#]+)")
   );
 
