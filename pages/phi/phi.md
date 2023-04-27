@@ -1,7 +1,7 @@
 ---
 name: "Phi"
 logo: "phi.svg"
-color: "TODO"
+color: "#8283FF"
 schemas:
   - "phi"
 links:
