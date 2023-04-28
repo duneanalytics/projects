@@ -22,7 +22,6 @@ dashboards:
 
 ---
 
-Aave is an open source and non-custodial protocol enabling the creation of money markets. Users can earn interest on deposits and borrow assets.
 AirSwap is an open developer community focused on decentralized trading systems. AirSwap technology powers peer-to-peer networks using RFQ and LastLook protocols.
 Providing non-slippage trades.
 
