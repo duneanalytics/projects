@@ -1,6 +1,6 @@
 ---
 # Name of the project. Also the URL i.e. duneanalytics.com/projects/dai.
-name: “VERSE”
+name: "VERSE"
 
 # The name of the logo file. Should have the same name as the markdown file.
 logo: "verse-black.svg"
@@ -10,33 +10,33 @@ color: "#FFFFFF"
 
 # List of relevant schemas you can query in dune.
 schemas:
-  - “verse”
+  - "verse"
 
 # List of relevant links to the project.
 links:
   - name: "Website"
     link: "https://www.bitcoin.com/"
-  - name: “Verse DEX”
+  - name: "Verse DEX"
     link: "https://verse.bitcoin.com"
-  - name: “Whitepaper”
+  - name: "Whitepaper"
     link: "https://www.getverse.com/verse-whitepaper.pdf"
-  - name: “Github”
+  - name: "Github"
     link: "https://github.com/bitcoin-portal/bitcoincom-solidity-swap"
 
 # List of applicable tags in Dune. These will link to e.g...
 tags:
-  - “verse”
-  - “ethereum"
-  - “bcom”
-  - “bch”
+  - "verse”
+  - "ethereum"
+  - "bcom”
+  - "bch”
   - "smartbch"
-  - “bitcoin”
+  - "bitcoin”
   - "DeFi"
-  - “DEX”
+  - "DEX”
 
 # List of related projects. These projects must exist in this repo and the name...
 related:
-  - “verse”
+  - "verse”
 
 # List of relevant dashboard slugs prefixed with username
 dashboards:
@@ -50,7 +50,7 @@ queries:
 
 # List of visualizations to embed
 embeds:
-  - name: “Verse Holders over time”
+  - name: "Verse Holders over time”
     link: "https://dune.com/embeds/1942119/3204019"
 ---
 
