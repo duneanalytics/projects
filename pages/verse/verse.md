@@ -25,18 +25,18 @@ links:
 
 # List of applicable tags in Dune. These will link to e.g...
 tags:
-  - "verse”
+  - "verse"
   - "ethereum"
-  - "bcom”
-  - "bch”
+  - "bcom"
+  - "bch"
   - "smartbch"
-  - "bitcoin”
+  - "bitcoin"
   - "DeFi"
-  - "DEX”
+  - "DEX"
 
 # List of related projects. These projects must exist in this repo and the name...
 related:
-  - "verse”
+  - "verse"
 
 # List of relevant dashboard slugs prefixed with username
 dashboards:
@@ -50,12 +50,17 @@ queries:
 
 # List of visualizations to embed
 embeds:
-  - name: "Verse Holders over time”
+  - name: "Verse Holders over time"
     link: "https://dune.com/embeds/1942119/3204019"
 ---
 
-VERSE is the rewards and utility token for the Bitcoin.com ecosystem. Launched in December 2022, VERSE is now being integrated into Bitcoin.com’s suite of products. These include the multichain Bitcoin.com Wallet, where over 38 million self-custodial wallets have been created, and the award-winning Bitcoin.com News platform, with over 2.5 million monthly readers.
+VERSE is the rewards and utility token for the Bitcoin.com ecosystem. Launched in December 2022, VERSE is now being
+integrated into Bitcoin.com’s suite of products. These include the multichain Bitcoin.com Wallet, where over 38 million
+self-custodial wallets have been created, and the award-winning Bitcoin.com News platform, with over 2.5 million monthly
+readers.
 
-VERSE will enable anyone to receive rewards for buying, selling, spending, swapping, and staying informed about crypto. At the same time, VERSE tokens will provide utility within and beyond Bitcoin.com’s ecosystem. Use cases will include unlocking rewards along tiers, method of payment, access to exclusive platform services and more.
+VERSE will enable anyone to receive rewards for buying, selling, spending, swapping, and staying informed about crypto.
+At the same time, VERSE tokens will provide utility within and beyond Bitcoin.com’s ecosystem. Use cases will include
+unlocking rewards along tiers, method of payment, access to exclusive platform services and more.
 
 https://bitcoin.com
