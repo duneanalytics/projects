@@ -47,11 +47,6 @@ dashboards:
 # List of relevant query-ids.
 queries:
   - 1942119
-
-# List of visualizations to embed
-embeds:
-  - name: "Verse Holders over time"
-    link: "https://dune.com/embeds/1942119/3204019"
 ---
 
 VERSE is the rewards and utility token for the Bitcoin.com ecosystem. Launched in December 2022, VERSE is now being
