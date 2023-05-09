@@ -1,7 +1,7 @@
 ---
 name: "cega"
 logo: "cega.svg"
-color: "#"
+color: "#EAEAEE"
 schemas:
   - "cega_v1"
 links:
@@ -21,8 +21,9 @@ tags:
   - "Exotic Options"
 dashboards:
   - "cega/cega-ethereum-v1"
-queries:
-  - 2457192
+embeds:
+  - name: "Cega Total Value Locked on Ethereum"
+    link: "https://explore.duneanalytics.com/embed/query/2457192/visualization/4039858?api_key=1nxpOfINoCOzTRHSc15PWaHlu3vjyQinBbYjtDNU"
 ---
 
 Cega is an exotic derivatives protocol. We build exotic options structured products for retail investors that generate superior yield and offer built-in protection against market downturns.
