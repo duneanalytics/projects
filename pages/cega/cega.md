@@ -24,8 +24,6 @@ dashboards:
 embeds:
   - name: "Cega Total Value Locked on Ethereum"
     link: "https://dune.com/embeds/2457192/4039858"
-  - name: "Cega Trade Volume on Ethereum"
-    link: "https://dune.com/embeds/2452546/4031366"
   - name: "Cega Total Yield Generated on Ethereum"
     link: "https://dune.com/embeds/2457167/4039860"
 ---
