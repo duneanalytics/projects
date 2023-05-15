@@ -41,6 +41,7 @@ related:
 # List of relevant dashboard slugs prefixed with username
 dashboards:
   - "alun/verse"
+  - "Henrystats/verse-dex-overview"
   - "jtk/verse-staking"
   - "Henrystats/verse-farmers-analytics"
 
