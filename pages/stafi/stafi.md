@@ -26,9 +26,9 @@ dashboards:
 queries: []
 embeds:
   - name: "StaFi Staked ETH Total Supply"
-    link: "https://dune.com/embeds/2381080/3905179"
+    link: "https://dune.com/embeds/2381080/3905179/6c0033d2-f5d2-4aab-b336-dd7cf67b096c"
   - name: "StaFi Staked MATIC(ERC20) Total Supply"
-    link: "https://dune.com/embeds/2472351/4067067"
+    link: "https://dune.com/embeds/2472351/4067067/037e73ae-69c6-438f-a188-32fa3d970cb2"
 ---
 ---
 
