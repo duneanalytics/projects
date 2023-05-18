@@ -23,9 +23,9 @@ dashboards:
   - "cega/cega-ethereum-v1"
 embeds:
   - name: "Cega Total Value Locked on Ethereum"
-    link: "https://dune.com/embeds/2457192/4039858"
+    link: "https://dune.com/embeds/2457192/4039858/a7284a40-96e1-484b-a99b-cc00c25f16b5"
   - name: "Cega Net Yield on Ethereum"
-    link: "https://dune.com/embeds/2460990/4047035"
+    link: "https://dune.com/embeds/2460990/4047035/a7284a40-96e1-484b-a99b-cc00c25f16b5"
 ---
 
 Cega is an exotic derivatives protocol. We build exotic options structured products for retail investors that generate superior yield and offer built-in protection against market downturns.
