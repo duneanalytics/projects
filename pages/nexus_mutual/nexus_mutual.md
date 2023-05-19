@@ -19,6 +19,7 @@ tags:
 dashboards:
   - "nexus_mutual/capital-pool-and-ownership"
   - "nexus_mutual/claims"
+  - "nexus_mutual/covers"
   - "rchen8/nexus-mutual"
 embeds:
   - name: "Total claims paid by Nexus Mutual"
