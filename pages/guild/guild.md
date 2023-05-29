@@ -29,7 +29,7 @@ queries:
   - 2263308
 embeds:
   - name: "Total number of pins collected"
-    link: "https://dune.com/embeds/2509713/4130465
+    link: "https://dune.com/embeds/2509713/4130465"
   - name: "Total sales via FeeCollector APP"
     link: "https://dune.com/embeds/2263153/3709866"
 ---
