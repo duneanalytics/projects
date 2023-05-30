@@ -40,14 +40,14 @@ related:
 
 # List of relevant dashboard slugs prefixed with username
 dashboards:
-  - "alun/verse"
   - "Henrystats/verse-dex-overview"
+  - "alun/verse"
   - "jtk/verse-staking"
   - "Henrystats/verse-farmers-analytics"
+  - "jtk/verse-burns"
 
-# List of relevant query-ids.
-queries:
-  - 1942119
+/* # List of relevant query-ids.
+queries: */
 ---
 
 VERSE is the rewards and utility token for the Bitcoin.com ecosystem. Launched in December 2022, VERSE is now being
