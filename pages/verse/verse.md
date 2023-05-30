@@ -46,8 +46,7 @@ dashboards:
   - "Henrystats/verse-farmers-analytics"
   - "jtk/verse-burns"
 
-/* # List of relevant query-ids.
-queries: */
+# List of relevant query-ids.
 ---
 
 VERSE is the rewards and utility token for the Bitcoin.com ecosystem. Launched in December 2022, VERSE is now being
