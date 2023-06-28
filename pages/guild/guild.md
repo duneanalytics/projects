@@ -22,16 +22,16 @@ tags:
 related: []
 dashboards:
   - "rusty378/guildxyz-pins"
-  - "vetalx/guild-payments-stats"
   - "tomi_ohl/guild-poap-fee-collector"
+  - "vetalx/guild-payments-stats"
 queries:
   - 2513830
   - 2263308
 embeds:
   - name: "Total number of pins collected"
-    link: "https://dune.com/embeds/2509713/4130465"
-  - name: "Total sales via FeeCollector APP"
-    link: "https://dune.com/embeds/2263153/3709866"
+    link: "https://dune.com/embeds/2672567/4443249/955a01de-1bed-417b-9277-b4ca209c1259"
+  - name: "Total POAP sales via FeeCollector"
+    link: "https://dune.com/embeds/2672582/4443288/494c1ebb-cf10-4155-aafa-77402b8484c4"
 ---
 
 **Guild.xyz** is the infrastructure for platformless access management. Create portable memberships, social structures around on- & off-chain requirements and build unique user journeys across apps!
