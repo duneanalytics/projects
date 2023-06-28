@@ -23,17 +23,17 @@ dashboards:
   - "zkbob/zkbob-on-optimism"
 embeds:
   - name: "BOB Deposited Over Time On Polygon"
-    link: "https://dune.com/embeds/2009800/3326301"
+    link: "https://dune.com/embeds/2009800/3326301/6ebe83bf-8fa1-4624-b18b-c560c38a8877"
   - name: "BOB Deposited Over Time On Optimism"
-    link: "https://dune.com/embeds/2445692/4019506"
+    link: "https://dune.com/embeds/2445692/4019506/c10569e2-3bdd-439f-bec4-ee360132a129"
   - name: "BOB Total Supply"
-    link: "https://dune.com/embeds/1631254/2703447"
+    link: "https://dune.com/embeds/1631254/2703447/eea02c6f-ec2e-4429-8d50-0154b3846178"
 
 ---
 
-zkBob is a stablecoin-based privacy application deployed on Polygon and Optimism and designed for everyday users and common use cases. zkBob uses zkSNARKS to anonymize senders, receivers, and amounts when transferring stable funds. 
+zkBob is a stablecoin-based privacy application deployed on Polygon and Optimism and designed for everyday users and common use cases. zkBob uses zkSNARKS to anonymize senders, receivers, and amounts when transferring stable funds.
 
-Compliance features deter bad actors and illicit usage, giving privacy and safety back to ordinary blockchain users. 
+Compliance features deter bad actors and illicit usage, giving privacy and safety back to ordinary blockchain users.
 
 zkBob is optimized to work with the BOB token, a multi-chain stable token (stablecoin) enhanced with optional privacy. Other tokens such as ETH, USDC and others will appear later.
 
