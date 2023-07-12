@@ -21,6 +21,9 @@ dashboards:
   - "zkbob/bob"
   - "zkbob/zkbob-on-polygon"
   - "zkbob/zkbob-on-optimism"
+  - "zkbob/bob-cdp"
+  - "zkbob/zkbobpooleth-on-optimism"
+  - "zkbob/lifi"
 embeds:
   - name: "BOB Deposited Over Time On Polygon"
     link: "https://dune.com/embeds/2009800/3326301/6ebe83bf-8fa1-4624-b18b-c560c38a8877"
