@@ -30,6 +30,7 @@ related:
   - "gnosis"
 
 dashboards:
+  - "markoshi/swarm-metrics"
   - "pablog/bzz-swarm"
   - "shytortoise1/total-holder-by-day-bzz"
 ---

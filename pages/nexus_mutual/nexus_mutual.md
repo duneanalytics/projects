@@ -17,8 +17,9 @@ tags:
   - "DeFi"
   - "Insurance"
 dashboards:
-  - "nexus_mutual/capital-pool-and-ownership"
+  - "nexus_mutual/covers"
   - "nexus_mutual/claims"
+  - "nexus_mutual/capital-pool-and-ownership"
   - "rchen8/nexus-mutual"
 embeds:
   - name: "Total claims paid by Nexus Mutual"
