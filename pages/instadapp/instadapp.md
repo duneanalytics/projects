@@ -24,7 +24,7 @@ tags:
   - "INST"
   - "DeFi"
   - "Avocado"
-  
+
 dashboards:
   - "murathan/instadapp-lite-v2-ieth-vault"
   - "murathan/avocado-wallet"
@@ -33,14 +33,6 @@ dashboards:
 
 queries:
   - 2329499
-
-embeds:
-  - name: "iETHv2 vs stETH APR (%)"
-    link: "https://dune.com/embeds/2352792/3853814"
-  - name: "iETH v2 Revenue"
-    link: "https://dune.com/embeds/2372193/3889382"
-  - name: "Flashloan Volume"
-    link: "https://dune.com/embeds/492240/932791"    
 ---
 
 Instadapp is a comprehensive DeFi platform that builds tools for both developers and users. With a range of products spanning across the DeFi ecosystem. Instadapp empowers its users to access a multitude of applications and features, from smart wallets to complex automated vault strategies.
