@@ -20,6 +20,7 @@ dashboards:
   - "nexus_mutual/covers"
   - "nexus_mutual/claims"
   - "nexus_mutual/capital-pool-and-ownership"
+  - "nexus_mutual/staking"
   - "rchen8/nexus-mutual"
 embeds:
   - name: "Total claims paid by Nexus Mutual"
@@ -34,5 +35,3 @@ Experts manage capital and provide cover within a globally accessible risk marke
 The Nexus Mutual protocol is built on Ethereum and provides the infrastructure for members to buy cover, underwrite risk, assess claims, and build risk management businesses.
 
 Explore more at https://nexusmutual.io
-
-*More dashboards coming soon as we upgrade queries to the V2 contracts.*
