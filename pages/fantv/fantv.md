@@ -17,7 +17,7 @@ links:
   - name: "Website"
     link: "https://fantv.in/"
   - name: "FAQ"
-    link: "https://fantv.com/#Faqs"
+    link: "https://fantv.in/#Faqs"
   - name: "Twitter"
     link: "https://twitter.com/FanTV_official"
   - name: "Telegram"
