@@ -17,10 +17,8 @@ schemas:
 links:
   - name: "Website"
     link: "https://skale.space/"
-  - name: "SKALE Analytics"
-    link: "https://dune.com/skale/statistics"
-  - name: "Documentation"
-    link: "https://docs.skale.network/"
+  - name: "SKALE stats"
+    link: "https://skale.space/stats"
   - name: "Twitter"
     link: "https://twitter.com/SkaleNetwork"
 
@@ -29,7 +27,7 @@ links:
 tags:
   - "SKALE Network" 
   - "EVM"
-  - "Multichain"
+  - "Zero Gas Fees"
 
 # List of relevant dashboard slugs prefixed with username
 dashboards:
@@ -48,7 +46,7 @@ embeds:
     link: "https://dune.com/embeds/2749952/4576851"
 ---
 
-The SKALE Network is an open-source, EVM-compatible multichain network built to scale Ethereum dApps with a focus on high-throughput, fast finality, and zero gas fee transactions via the native gas token sFuel.
+SKALE Network is an open-source, EVM-compatible multichain network built to scale Ethereum dApps with a focus on high-throughput, fast finality, and zero gas fee transactions via the native gas token sFuel.
 
 The Network enables dApp developers to access validator-operated nodes compute power and storage to run fast, containerized, EVM-compatible chains called SKALE Chains.
 
