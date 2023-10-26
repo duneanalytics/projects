@@ -3,7 +3,7 @@
 name: "SKALE" 
 
 # The name of the logo file. Should have the same name as the markdown file.
-logo: "skale.svg"
+logo: "SKALE.svg"
 
 # The main color of the project. Remember to quote this value.
 color: "#043892"
