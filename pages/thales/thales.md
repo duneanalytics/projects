@@ -15,7 +15,7 @@ links:
     - name: "Thales Docs"
       link: "https://docs.thalesmarket.io/"
     - name: "Overtime Website"
-      link: "https://thalesmarket.io/"
+      link: "https://overtimemarkets.xyz/"
     - name: "Overtime Twitter"
       link: "https://twitter.com/OvertimeMarkets"
     - name: "Overtime Blog"
