@@ -41,8 +41,8 @@ dashboards:
 
 # List of relevant query-ids.
 queries:
-  - 3338878 # MetaMorpho vaults description
   - 3336346 # Morpho blue markets
+  - 3338878 # MetaMorpho vaults description
   - 1935001 # Morpho Aave optimizer volumes
 
 # List of visualizations to embed
@@ -51,9 +51,5 @@ embeds:
     link: "https://dune.com/embeds/3336331/5589898/" 
 ---
 
-Morpho is a decentralized lending protocol with different entities and individuals contributing to its development and adoption.
-
-The first version of the Morpho Protocol is named Morpho Optimizers. It is built on top of incumbent lending pools and improves the lending and borrowing rates of users with a peer-to-peer matching algorithm while preserving the same liquidity and risk parameters.
-
-Morpho Blue is the most recent protocol version and is independent of Morpho Optimizers.
-Morpho Blue is a simple lending primitive layer that allows the creation of immutable and efficient lending markets in a permissionless way.
+Morpho is a decentralized protocol enabling the overcollateralized lending and borrowing of crypto assets (ERC20 Tokens) on the [Ethereum Virtual Machine](https://ethereum.org/en/developers/docs/evm). Morpho provides users with secure, efficient, and flexible lending infrastructure.
+The latest version, Morpho Blue, is implemented as an immutable smart contract, engineered to serve as a trustless base layer for lenders, borrowers, and applications.
