@@ -33,7 +33,8 @@ tags:
   
 # List of related projects. These projects must exist in this repo and the name...
 related: 
-
+  - []
+    
 # List of relevant dashboard slugs prefixed with username
 dashboards:
   - "adrian0x/olas"
