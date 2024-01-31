@@ -47,8 +47,7 @@ queries:
 
 # List of visualizations to embed
 embeds:
-  - name: "Autonous Service Transactions"
-    link: "<iframe src="https://dune.com/embeds/3344834/5605096/"/>" 
+  - []
 ---
 
 The unified network for off-chain services. Coordinated by the OLAS token, powered by autonomous agents.
