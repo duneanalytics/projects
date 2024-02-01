@@ -1,3 +1,13 @@
+# PROJECT PAGES ARE GETTING DEPRECATED SOON
+
+We're in the process of rolling out more customization features for profile pages, which will replace these projects. Contact bernat@dune.com to learn more.
+
+As a result, **we've stopped processing PRs in this repo.**
+
+The projects must flow!
+
+--------
+
 # Dune Analytics Project Pages
 
 This repository hosts the content rendered on [duneanalytics.com/projects](https://duneanalytics.com/projects). We welcome contributions to exisiting pages as well as entirely new pages.
