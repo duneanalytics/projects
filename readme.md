@@ -1,6 +1,6 @@
-# PROJECT PAGES ARE GETTING DEPRECATED SOON
+# PROJECT PAGES ARE DEPRECATED
 
-We're in the process of rolling out more customization features for profile pages, which will replace these projects. Contact bernat@dune.com to learn more.
+Use team profiles instead.
 
 As a result, **we've stopped processing PRs in this repo.**
 
